@@ -14,3 +14,11 @@ $('iframe').load( function() {
     $('iframe').contents().find("head")
       .append($("<style type='text/css'>  .my-class{background-color:red;}  </style>"));
 });
+
+*/
+
+$(document).ready(function(){
+     $('#nav-mhweb-hamburger').click(function(){
+     $(this).toggleClass('open');
+   });
+   });
