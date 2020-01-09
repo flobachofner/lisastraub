@@ -50,6 +50,66 @@ main {
 	transform: translate(-100px, 0px);
 }
 
+@media only screen and (max-width: 1200px) {
+	#head-text {
+		transform: translate(-180px, 40px);
+		font-size: 20px;
+	}
+	#head-image {
+		width: 60%;
+		position: absolute;
+		transform: translate(420px, 160px);
+	}
+}
+
+@media only screen and (max-width: 1090px) {
+	#head-text {
+		transform: translate(-180px, 40px);
+		font-size: 18px;
+	}
+	#head-image {
+		width: 60%;
+		position: absolute;
+		transform: translate(380px, 160px);
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	#head-text {
+		transform: translate(0px, 220px);
+		font-size: 15px;
+	}
+	#head-image {
+		width: 90%;
+		position: absolute;
+		transform: translate(60px, 160px);
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	#head-text {
+		transform: translate(0px, 80px);
+		font-size: 15px;
+	}
+	#head-image {
+		width: 90%;
+		position: absolute;
+		transform: translate(60px, 160px);
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	#head-text {
+		transform: translate(-15px, -5px);
+		font-size: 15px;
+	}
+	#head-image {
+		width: 90%;
+		position: absolute;
+		transform: translate(60px, 110px);
+	}
+}
+
 .rgba-black-light, .rgba-black-light:after {
     background-color: rgba(0,0,0,0);
 }
@@ -345,7 +405,7 @@ top: 19px;
 
 .dark-section-soundhealing {
 	min-width: 90%;
-	width: 1320px;
+	width: 1340px;
 	height: 500px;
 	position: absolute;
 	background-color: #FFE4C8;

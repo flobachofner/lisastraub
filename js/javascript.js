@@ -1,9 +1,15 @@
 // JavaScript Document
-/*
+
 $(window).scroll(function() {
 	var scrollTop = window.pageYOffset;
 	$(".backgroundfront").offset({top:scrollTop * 0.72 ,left:0})
 });
+
+/*
+$(window).scroll(function() {
+	var scrollTop = window.pageYOffset;
+	$("#head-text").offset({top:scrollTop+400 * 0.52 ,left:0})
+});*/
 
 $(window).scroll(function() {
 	var scrollTop = window.pageYOffset;
@@ -15,10 +21,8 @@ $('iframe').load( function() {
       .append($("<style type='text/css'>  .my-class{background-color:red;}  </style>"));
 });
 
-*/
-
 $(document).ready(function(){
      $('#nav-mhweb-hamburger').click(function(){
      $(this).toggleClass('open');
    });
-   });
+});
