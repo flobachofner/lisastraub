@@ -100,8 +100,8 @@ main {
 
 @media only screen and (max-width: 400px) {
 	#head-text {
-		transform: translate(-15px, -5px);
-		font-size: 15px;
+		transform: translate(-15px, 65px);
+		font-size: 14px;
 	}
 	#head-image {
 		width: 90%;
