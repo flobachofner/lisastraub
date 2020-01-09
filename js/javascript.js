@@ -1,5 +1,5 @@
 // JavaScript Document
-
+/*
 $(window).scroll(function() {
 	var scrollTop = window.pageYOffset;
 	$(".backgroundfront").offset({top:scrollTop * 0.72 ,left:0})
