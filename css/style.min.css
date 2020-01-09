@@ -344,12 +344,36 @@ top: 19px;
 }
 
 .dark-section-soundhealing {
-	width: 1500px;
+	min-width: 90%;
+	width: 1320px;
 	height: 500px;
-	background-color: #FFE4C8;
 	position: absolute;
-	z-index: 0;	
-	transform: translate(-300px, -20px);
+	background-color: #FFE4C8;
+	transform: translate(-15vw, 0px);
+}
+
+@media screen and (max-width: 1199px) {
+  .dark-section-soundhealing {
+	min-width: 90%;
+	width: 1250px;
+	height: 530px;
+	position: absolute;
+	background-color: #FFE4C8;
+	transform: translate(-25vw, 0px);
+  }
+}
+
+@media screen and (max-width: 1060px) {
+    .dark-section-soundhealing {
+	  display: none;
+    }
+	.container-dark-soundhealing {
+	  background-color: #FFE4C8;
+	  margin: 0px !important;
+	  width: 100%;
+	  max-width: 100em;
+	}
+	
 }
 
 .dark-section-content {
