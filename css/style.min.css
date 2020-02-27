@@ -403,6 +403,17 @@ top: 19px;
 	transform: translate(-300px, 0px);
 }
 
+@media screen and (max-width: 992px) {
+  .dark-section-aufbau {
+	width: 1500px;
+	height: 430px;
+	background-color: #FFE4C8;
+	position: absolute;
+	z-index: 0;	
+	transform: translate(-300px, 0px);
+  }
+}
+
 .dark-section-soundhealing {
 	min-width: 90%;
 	width: 1340px;
@@ -434,6 +445,12 @@ top: 19px;
 	  max-width: 100em;
 	}
 	
+}
+
+@media screen and (max-width: 765px) {
+	.seminar-overview {
+		display: none;
+	}
 }
 
 .dark-section-content {
