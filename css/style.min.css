@@ -12,6 +12,15 @@ main {
 	padding-top: 30px;
 }
 
+.covid-card {
+	border: 3px solid #991315;
+	border-radius: 3px;
+}
+
+.covid-title {
+	color: #991315;
+}
+
 /* Header */
 .logo {
 	height: 58px;
