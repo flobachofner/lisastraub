@@ -4,6 +4,7 @@
 
 .seminar-page {
 	overflow-x: hidden;
+	position: relative;
 }
 
 main {
