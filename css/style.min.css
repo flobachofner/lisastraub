@@ -144,6 +144,7 @@ h1 {
 	letter-spacing: 1.6px;
 	font-size: 5em;
 	padding: 40px 0px 10px 0px;
+	font-display: swap;
 }
 
 h2 {
@@ -151,11 +152,13 @@ h2 {
 	font-weight: 300;
 	letter-spacing: 1.6px;
 	font-size: 3em;
+	font-display: swap;
 }
 
 
 h3, h4, h5, h6 {
 	font-family: freight-display-pro, serif;
+	font-display: swap;
 }
 
 .site-title {
@@ -204,6 +207,7 @@ a:hover {
 	letter-spacing: 1.6px;
 	font-size: 2em;
 	color: #991315;
+	font-display: swap;
 }
 
 .navbar.navbar-dark .navbar-nav .nav-item .nav-link {
@@ -218,6 +222,7 @@ a:hover {
 	padding: 10px 20px 10px 20px;
 	border-bottom: 4px solid rgba(0,0,0,0);
 	border-top: 4px solid rgba(0,0,0,0);
+	font-display: swap;
 }
 
 .navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
