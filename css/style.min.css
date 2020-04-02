@@ -39,15 +39,14 @@ main {
 }
 
 #head-background {
-	/*background-image: url("../img/abstract_bg.jpg");*/
 	z-index: -100;
 	background-color: #FFE4C8;
 }
-
+/*
 .backgroundfront-alt {
 	height: 80px;
 }
-
+*/
 .head-background-content {
 	height: 210px;
 	background-color: #FFE4C8;
