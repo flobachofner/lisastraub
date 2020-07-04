@@ -60,10 +60,10 @@
             <a class="nav-link" href="soundhealing.html">SoundHealing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="thetahealing.html" target="_self">ThetaHealing<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="thetahealing.html" target="_self">ThetaHealing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="seminare.html" target="_self">Seminare</a>
+            <a class="nav-link" href="seminare.html" target="_self">Seminare<span class="sr-only">(current)</span></a>
           </li>
 		  <li class="nav-item">
             <a class="nav-link" href="blog.html" target="_self">Blog</a>
@@ -127,8 +127,9 @@
 				<hr>
 				<!--Text-->
 				<p class="card-text mb-3">Im <strong>Basis DNA</strong> Seminar lernst du die Philosophie und Grundtechniken von ThetaHealing kennen und anwenden.</p>
-				<p class="font-small font-weight-bold dark-grey-text mb-1"><i class="far fa-clock-o"></i>
-				  04. - 06. September 2020</p>
+				
+				<p class="basisDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				  
 				<p class="font-small grey-text mb-0">Wald ZH</p>
 			  	<p class="text-right mb-0 font-small font-weight-bold"><a href="basis.html" target="_self">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 			  </div>
@@ -161,8 +162,9 @@
 				<hr>
 				<!--Text-->
 				<p class="card-text mb-3">Im <strong>Aufbau DNA</strong> lernst du neue, wunderschöne und kraftvolle Werkzeuge kennen und vertiefst dein Wissen aus dem Basisseminar.</p>
-				<p class="font-small font-weight-bold dark-grey-text mb-1"><i class="far fa-clock-o"></i>
-				  Oktober 2020</p>
+				  
+				<p class="aufbauDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				  
 				<p class="font-small grey-text mb-0">Wald ZH</p>
 				<p class="text-right mb-0 font-small font-weight-bold"><a href="aufbau.html">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 			  </div>
@@ -521,10 +523,60 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+  <!-- Custom Javascript -->
+  <script type="text/javascript" src="js/javascript.js"></script>
   <!-- Initializations -->
   <script type="text/javascript">
     // Animations initialization
     new WOW().init();
+	  
+	var errors = document.querySelectorAll(
+               ".basisDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().basis;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".aufbauDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().aufbau;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".tieferDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().tiefer;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".schoepferDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().schoepfer;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".kreisDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().kreis;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".erdeDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().erde;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".lebenspartnerDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().lebenspartner;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".manifestierenDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().manifestieren;
+	});
 
   </script>
 </body>

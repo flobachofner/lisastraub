@@ -26,3 +26,20 @@ $(document).ready(function(){
      $(this).toggleClass('open');
    });
 });
+
+// Vars
+
+function seminarDaten()
+{
+    return daten = {
+		basis: "24. - 26. Juli  /  04. - 06. September 2020",
+		aufbau: "06. - 08. November 2020",
+		tiefer: "Anfangs 2021",
+		schoepfer: "Anfangs 2021",
+		kreis: "11. - 12. Juli 2020",
+		erde: "12. - 13. September 2020",
+		lebenspartner: "31. Okt - 01. Nov 2020",
+		manifestieren: "12. - 13. Dezember 2020"
+	}
+}
+

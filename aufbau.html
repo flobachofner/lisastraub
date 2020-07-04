@@ -29,7 +29,7 @@
 
     gtag('config', 'UA-41313155-4');
   </script>
-	
+		
   <!-- JSON-LD-Markup generiert von Google Strukturierte Daten: Markup-Hilfe -->
 	<script type="application/ld+json">
 	{
@@ -154,7 +154,7 @@
 				<p>Jonastrasse 7, 8636 Wald ZH</p>
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
-				<p id="datum-aufbau">Oktober 2020</p>
+				<p class="aufbauDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 620.-</p>
@@ -235,7 +235,7 @@
 						<p>Fr 620.-</p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
-						<p class="datum-aufbau">Oktober 2020</p>
+						<p class="aufbauDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>Mi - 10 bis 18 Uhr<br>Do - 10 bis 18 Uhr<br>Fr - 10 bis 17 Uhr</p>
@@ -314,10 +314,20 @@
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <!-- MDB core JavaScript -->
 <script type="text/javascript" src="js/mdb.min.js"></script>
+<!-- Custom Javascript -->
+<script type="text/javascript" src="js/javascript.js"></script>
 <!-- Initializations -->
 <script type="text/javascript">
-// Animations initialization
-new WOW().init();
+	// Animations initialization
+	new WOW().init();
+	
+	var errors = document.querySelectorAll(
+               ".aufbauDatum");
+
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().aufbau;
+	});
+
 
 </script>
 </body>

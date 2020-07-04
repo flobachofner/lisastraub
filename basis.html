@@ -151,14 +151,14 @@
 		<p class="text-center w-responsive mx-auto mb-5">Im Basis DNA Seminar lernst du die Philosophie und Grundtechniken von ThetaHealing kennen und anwenden. <br><br> Du wirst dich von alten, hinderlichen Glaubensmustern lösen und mit positiven Gedanken und Gefühlen voranschreiten. Im Anschluss an das Seminar wird es dir immer mehr möglich sein, DAS Leben zu kreieren, das du dir von Herzen wünschst.</p>
 
 		<div class="row mt-4 pb-5 seminar-overview">
-			<div class="col-lg-5 offset-lg-2 col-5 offset-1 border-top-big border-right-big">
-				<p class="semiar-info">Jonastrasse 7, 8636 Wald ZH</p>
+			<div class="col-lg-5 offset-lg-2 col-5 offset-1 border-top-big border-right-big pt-3">
+				<p>Jonastrasse 7, 8636 Wald ZH</p>
 			</div>
-			<div class="col-log-2 col-3 border-top-big border-right-big text-center">
-				<p class="semiar-info">04. - 06. September 2020</p>
+			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
+				<p class="basisDatum"></p>
 			</div>
-			<div class="col-lg-1 col-2 border-top-big border-right-big text-center">
-				<p class="semiar-info">Fr. 620.-</p>
+			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
+				<p>Fr. 620.-</p>
 			</div>
 		</div>
 
@@ -235,7 +235,7 @@
 						<p>Fr 620.-</p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
-						<p>04. - 06. September 2020</p>
+						<p class="basisDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>Fr - 10 bis 18 Uhr<br>Sa - 10 bis 18 Uhr<br>So - 9:30 bis 16 Uhr</p>
@@ -311,11 +311,21 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+  <!-- Custom Javascript -->
+  <script type="text/javascript" src="js/javascript.js"></script>
   <!-- Initializations -->
   <script type="text/javascript">
-    // Animations initialization
-    new WOW().init();
-
+  	// Animations initialization
+  	new WOW().init();
+  
+  	var errors = document.querySelectorAll(
+  			   ".basisDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().basis;
+  	});
+  
+  
   </script>
 </div>
 </body>

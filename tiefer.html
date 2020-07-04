@@ -151,14 +151,14 @@
 		<p class="text-center w-responsive mx-auto mb-5 mt-4">Das Grabe Tiefer Seminare ist für alle, die es wissen wollen. <br>Du vertiefst dein Wissen und deine Fähigkeiten aus dem Basis- und Aufbauseminar.<br><br>Während diesen zwei Tagen lernst du die Struktur des Grabens (digging) vertieft kennen und hast viel Zeit zum üben. <br> Anschliessend wirst du in der Lage sein, selber ThetaHealing Sitzungen anzubieten.</p>
 		
 		<div class="row mt-4 pb-5 seminar-overview">
-			<div class="col-lg-5 offset-lg-2 col-5 offset-1 border-top-big border-right-big">
-				<p class="semiar-info">Jonastrasse 7, 8636 Wald ZH</p>
+			<div class="col-lg-5 offset-lg-2 col-5 offset-1 border-top-big border-right-big pt-3">
+				<p>Jonastrasse 7, 8636 Wald ZH</p>
 			</div>
-			<div class="col-log-2 col-3 border-top-big border-right-big text-center">
-				<p class="semiar-info">November 2020</p>
+			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
+				<p class="tieferDatum"></p>
 			</div>
-			<div class="col-lg-1 col-2 border-top-big border-right-big text-center">
-				<p class="semiar-info">Fr. 460.-</p>
+			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
+				<p>Fr. 460.-</p>
 			</div>
 		</div>
 
@@ -236,7 +236,7 @@
 						<p>Fr 460.-</p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
-						<p>November 2020</p>
+						<p class="tieferDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>Do - 10 bis 18 Uhr<br>Fr - 10 bis 17:30 Uhr</p>
@@ -314,11 +314,21 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+  <!-- Custom Javascript -->
+  <script type="text/javascript" src="js/javascript.js"></script>
   <!-- Initializations -->
   <script type="text/javascript">
-    // Animations initialization
-    new WOW().init();
-
+  	// Animations initialization
+  	new WOW().init();
+  
+  	var errors = document.querySelectorAll(
+  			   ".tieferDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().tiefer;
+  	});
+  
+  
   </script>
 </div>
 </body>
