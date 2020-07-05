@@ -1,15 +1,8 @@
 // JavaScript Document
-
 $(window).scroll(function() {
 	var scrollTop = window.pageYOffset;
 	$(".backgroundfront").offset({top:scrollTop * 0.72 ,left:0})
 });
-
-/*
-$(window).scroll(function() {
-	var scrollTop = window.pageYOffset;
-	$("#head-text").offset({top:scrollTop+400 * 0.52 ,left:0})
-});*/
 
 $(window).scroll(function() {
 	var scrollTop = window.pageYOffset;
@@ -27,8 +20,7 @@ $(document).ready(function(){
    });
 });
 
-// Vars
-
+// Variablen Seminardaten 
 function seminarDaten()
 {
     return daten = {
