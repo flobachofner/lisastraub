@@ -28,7 +28,7 @@ function seminarDaten()
 		aufbau: "06. - 08. November 2020",
 		tiefer: "Anfangs 2021",
 		schoepfer: "Anfangs 2021",
-		kreis: "11. - 12. Juli 2020",
+		kreis: "Anfangs 2021",
 		erde: "12. - 13. September 2020",
 		lebenspartner: "31. Okt - 01. Nov 2020",
 		manifestieren: "12. - 13. Dezember 2020"
