@@ -186,7 +186,7 @@
 		<!--Aktuelle Seminare-->
 		<div class="container mt-5 pt-3">
 			<section class="contact-section dark-grey-text my-5 pb-3">
-				<h2>Aktuelle Seminare</h2>
+				<h2>Aktuell</h2>
 					<div class="line"></div>
 
 				<!-- Grid row -->
@@ -209,13 +209,13 @@
 						  <!--Card content-->
 						  <div class="card-body">
 							<!--Title-->
-							<h4 class="card-title text-center"><strong>Basis DNA</strong></h4>
+							<h4 class="card-title text-center"><strong>Übungsabend</strong></h4>
 							<hr>
-							<!--Text-->
-							<p class="card-text mb-3">Im <strong>Basis DNA</strong> Seminar lernst du die Philosophie und Grundtechniken von ThetaHealing kennen und anwenden.</p>
-							<p class="basisDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+							<!--Text-->2
+							<p class="card-text mb-3">Am ThetaHealing Übungsabend...</p>
+							<p class="uebungsabendDatum font-small font-weight-bold dark-grey-text mb-2"></p>
 							<p class="font-small grey-text mb-0">Wald ZH</p>
-							<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/basis" target="_self">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+							<p class="text-right mb-0 font-small font-weight-bold"><a href="uebungsabend" target="_self">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 						  </div>
 						  <!--/Card content-->
 						</div>
@@ -577,6 +577,12 @@
                ".weltenbeziehungenDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().weltenbeziehungen;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".uebungsabendDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungsabend;
 	});
 
   </script>

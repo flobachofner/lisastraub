@@ -32,7 +32,8 @@ function seminarDaten()
 		erde: "12. - 13. September 2020",
 		lebenspartner: "31. Okt - 01. Nov 2020",
 		manifestieren: "12. - 13. Dezember 2020",
-		weltenbeziehungen: "10. - 14. Oktober 2020"
+		weltenbeziehungen: "10. - 14. Oktober 2020",
+		uebungsabend: "12. September 2020"
 	}
 }
 
