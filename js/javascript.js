@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "Anfangs 2021",
-		aufbau: "06. - 08. November 2020",
+		aufbau: "20. - 22 . November 2020",
 		tiefer: "Anfangs 2021",
 		schoepfer: "Anfangs 2021",
 		kreis: "Anfangs 2021",
