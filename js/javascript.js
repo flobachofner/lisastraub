@@ -29,7 +29,7 @@ function seminarDaten()
 		tiefer: "Anfangs 2021",
 		schoepfer: "Anfangs 2021",
 		kreis: "Anfangs 2021",
-		erde: "12. - 13. September 2020",
+		erde: "Herbst 2021 ",
 		lebenspartner: "31. Okt - 01. Nov 2020",
 		manifestieren: "12. - 13. Dezember 2020",
 		weltenbeziehungen: "10. - 14. Oktober 2020",
