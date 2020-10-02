@@ -842,7 +842,13 @@ text-align: left;
     line-height: 60px;
 	
 }
-
 /* Border */
+
+/* About */
+.master_badge {
+	padding-top: 20px;
+	width: 100px;
+}
+
 
 
