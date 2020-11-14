@@ -33,6 +33,7 @@ function seminarDaten()
 		lebenspartner: "31. Okt - 01. Nov 2020",
 		manifestieren: "12. - 13. Dezember 2020",
 		weltenbeziehungen: "2021",
+		intuitiveAnatomie: "13. - 29. Mai 2021",
 		uebungsabend: "Datum November noch offen"
 	}
 }

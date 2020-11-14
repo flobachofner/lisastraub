@@ -532,6 +532,15 @@ top: 19px;
 
 /* Sections */
 
+/* Seminar Cards */
+.card {
+	transition: transform .4s; /* Animation */ 
+}
+
+.card:hover {
+	transform: scale(1.02);
+}
+
 /* Curriculum */
 .card-curriculum {
 	display: flex;

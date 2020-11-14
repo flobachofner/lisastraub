@@ -407,6 +407,40 @@
 			<!--/.Card-->
 		  </div>
 		  <!--Grid column-->
+			
+	      <!--Grid column-->
+		  <div class="col-md-4 mb-4">
+
+			<!--Card-->
+			<div class="card">
+
+			  <!--Card image-->
+			  <div class="view overlay">
+				<img src="img/seminare/intuitive-anatomie.jpg" class="card-img-top" alt="">
+				<a href="seminare/intuitive-anatomie">
+				  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+				</a>
+			  </div>
+			  <!--/.Card image-->
+
+			  <!--Card content-->
+			  <div class="card-body">
+				<!--Title-->
+				<h4 class="card-title text-center"><strong>Intuitive Anatomie</strong></h4>
+				<hr>
+				<!--Text-->
+				<p class="card-text mb-3">Das Seminar <strong>Intuitive Anatomie</strong> ist eine fünfzehntägige, tief transformierende Entdeckungsreise durch deinen Körper.</p>
+				
+				<p class="intuitiveAnatomieDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				<p class="font-small grey-text mb-0">Wald ZH</p>
+				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/intuitive-anatomie">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+			  </div>
+			  <!--/.Card content-->
+
+			</div>
+			<!--/.Card-->
+		  </div>
+		  <!--Grid column-->
 
 		</div>
 	  <!--First Row-->
@@ -499,7 +533,7 @@
 			
 			<div class="col-md-4">
 				<div class="card card-curriculum-end">
-					<p class="content-curriculum text-white">Intuitive Anatomie</p>
+					<p class="content-curriculum"><a href="seminare/intuitive-anatomie">Intuitive Anatomie</a></p>
 				</div>
 			</div>
 			
@@ -642,6 +676,13 @@
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().weltenbeziehungen;
 	});
+	  
+	var errors = document.querySelectorAll(
+               ".intuitiveAnatomieDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().intuitiveAnatomie;
+	});
+
 
   </script>
 </body>
