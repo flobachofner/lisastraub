@@ -441,6 +441,74 @@
 			<!--/.Card-->
 		  </div>
 		  <!--Grid column-->
+			
+		  <!--Grid column-->
+		  <div class="col-md-4 mb-4">
+
+			<!--Card-->
+			<div class="card">
+
+			  <!--Card image-->
+			  <div class="view overlay">
+				<img src="img/seminare/seelenpartner.jpg" class="card-img-top" alt="">
+				<a href="seminare/seelenpartner">
+				  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+				</a>
+			  </div>
+			  <!--/.Card image-->
+
+			  <!--Card content-->
+			  <div class="card-body">
+				<!--Title-->
+				<h4 class="card-title text-center"><strong>Seelenpartner</strong></h4>
+				<hr>
+				<!--Text-->
+				<p class="card-text mb-3">Dieses Seminar ist für dich, wenn auf der Suche nach einem Seelenpartner bist oder deine bestehende Beziehung vertiefen möchtest.</p>
+				
+				<p class="seelenpartnerDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				<p class="font-small grey-text mb-0">Wald ZH</p>
+				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/seelenpartner">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+			  </div>
+			  <!--/.Card content-->
+
+			</div>
+			<!--/.Card-->
+		  </div>
+		  <!--Grid column-->
+		  
+		  <!--Grid column-->
+		  <div class="col-md-4 mb-4">
+
+			<!--Card-->
+			<div class="card">
+
+			  <!--Card image-->
+			  <div class="view overlay">
+				<img src="img/seminare/rhythm.jpg" class="card-img-top" alt="">
+				<a href="seminare/rhythm">
+				  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+				</a>
+			  </div>
+			  <!--/.Card image-->
+
+			  <!--Card content-->
+			  <div class="card-body">
+				<!--Title-->
+				<h4 class="card-title text-center"><strong>Rhythm</strong></h4>
+				<hr>
+				<!--Text-->
+				<p class="card-text mb-3">In diesem Tagesseminar geht es darum, dass du dich im eigenen Körper wohlfühlst, ihn annehmen und lieben kannst.</p>
+				
+				<p class="rhythmDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				<p class="font-small grey-text mb-0">Wald ZH</p>
+				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/rhythm">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+			  </div>
+			  <!--/.Card content-->
+
+			</div>
+			<!--/.Card-->
+		  </div>
+		  <!--Grid column-->
 
 		</div>
 	  <!--First Row-->
@@ -545,13 +613,13 @@
 			
 			<div class="col-md-4">
 				<div class="card card-curriculum-end">
-					<p class="content-curriculum text-white">Rhythm</p>
+					<p class="content-curriculum"><a href="seminare/rhythm">Rhythm</a></p>
 				</div>
 			</div>
 			
 			<div class="col-md-4">
 				<div class="card card-curriculum-end">
-					<p class="content-curriculum text-white">Seelenpartner</p>
+					<p class="content-curriculum"><a href="seminare/seelenpartner">Seelenpartner</a></p>
 				</div>
 			</div>
 			
@@ -681,6 +749,18 @@
                ".intuitiveAnatomieDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().intuitiveAnatomie;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".seelenpartnerDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().seelenpartner;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".rhythmDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().rhythm;
 	});
 
 

@@ -34,6 +34,10 @@ function seminarDaten()
 		manifestieren: "12. - 13. Dezember 2020",
 		weltenbeziehungen: "2021",
 		intuitiveAnatomie: "13. - 29. Mai 2021",
+		seelenpartner: "tbd",
+		rhythm: "tbd",
+		regenbogenkinder: "tbd",
+		krankheiten: "tbd",
 		uebungsabend: "Datum November noch offen"
 	}
 }
