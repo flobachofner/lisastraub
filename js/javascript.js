@@ -38,7 +38,7 @@ function seminarDaten()
 		rhythm: "tbd",
 		regenbogenkinder: "tbd",
 		krankheiten: "tbd",
-		uebungsabend: "Datum November noch offen"
+		uebungsabend: "2. Dezember"
 	}
 }
 
