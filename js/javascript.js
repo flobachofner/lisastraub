@@ -36,7 +36,7 @@ function seminarDaten()
 		intuitiveAnatomie: "13. - 29. Mai 2021",
 		seelenpartner: "tbd",
 		rhythm: "tbd",
-		regenbogenkinder: "tbd",
+		regenbogenkinder: "2. - 5. April 2021",
 		krankheiten: "tbd",
 		uebungsabend: "2. Dezember 2020"
 	}
