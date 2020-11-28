@@ -24,20 +24,20 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "Anfangs 2021",
-		aufbau: "20. - 22 . November 2020",
-		tiefer: "Anfangs 2021",
+		basis: "8. - 10. Januar 2021",
+		aufbau: "Anfangs 2021",
+		tiefer: "2. - 3. Januar 2021",
 		schoepfer: "5. - 6. Dezember 2020",
 		kreis: "Anfangs 2021",
 		erde: "Herbst 2021 ",
-		lebenspartner: "31. Okt - 01. Nov 2020",
+		lebenspartner: "Frühling 2021",
 		manifestieren: "12. - 13. Dezember 2020",
-		weltenbeziehungen: "2021",
+		weltenbeziehungen: "Herbst 2021",
 		intuitiveAnatomie: "13. - 29. Mai 2021",
-		seelenpartner: "tbd",
-		rhythm: "tbd",
+		seelenpartner: "Frühling 2021",
+		rhythm: "2021",
 		regenbogenkinder: "2. - 5. April 2021",
-		krankheiten: "tbd",
+		krankheiten: "Herbst 2021",
 		uebungsabend: "2. Dezember 2020"
 	}
 }
