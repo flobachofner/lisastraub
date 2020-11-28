@@ -257,7 +257,7 @@
 			<a href="weltenbeziehungen" class="btn btn-link rounded-pill mt-5">Zum nächsten Seminar &nbsp; <i class="fas fa-angle-right"></i></a>
 			
 			<div class="row pt-5 justify-content-center">
-				<iframe class="pt-3" src="https://docs.google.com/forms/d/e/1FAIpQLSdSngp9hEfj6ofme0uGUOp4_qaUl9iahpjQTDdIcG3iMkRmiQ/viewform?embedded=true" width="640" height="2350" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+				<iframe class="pt-3" onload="loaded()" src="https://docs.google.com/forms/d/e/1FAIpQLSdSngp9hEfj6ofme0uGUOp4_qaUl9iahpjQTDdIcG3iMkRmiQ/viewform?embedded=true" width="640" height="2350" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 			</div>
 		</section>
 		<!--Info-->
@@ -331,6 +331,15 @@
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().manifestieren;
   	});
+	  
+	var loadCounter = 0;
+    var loaded = function() {
+        loadCounter += 1;
+		console.log(loadCounter)
+        if (loadCounter === 2) {
+            window.scrollTo(0,1600)
+        }
+    }
   
   
   </script>
