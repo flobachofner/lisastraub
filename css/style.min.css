@@ -532,6 +532,20 @@ top: 19px;
 
 /* Sections */
 
+
+/* Seminar overview */
+.badge-danger {
+	background-color: #991315 !important;
+}
+.single-news {
+	transition: transform .4s; /* Animation */ 
+}
+
+.single-news:hover {
+	transform: scale(1.02);
+}
+
+
 /* Seminar Cards */
 .card {
 	transition: transform .4s; /* Animation */ 
