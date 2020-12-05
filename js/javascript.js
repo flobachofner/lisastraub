@@ -27,7 +27,7 @@ function seminarDaten()
 		basis: "8. - 10. Januar 2021",
 		aufbau: "19. - 21. Februar 2021",
 		tiefer: "2. - 3. Januar 2021",
-		schoepfer: "5. - 6. Dezember 2020",
+		schoepfer: "12. - 13. Juni 2021",
 		kreis: "13. - 14. Februar 2021",
 		erde: "4. - 5. September 2021",
 		lebenspartner: "1. - 2. Mai 2021",
