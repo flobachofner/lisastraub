@@ -38,7 +38,7 @@ function seminarDaten()
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "2. - 5. April 2021",
 		krankheiten: "Herbst 2021",
-		uebungsabend: "2. Dezember 2020"
+		uebungsabend: "21. Januar 2021"
 	}
 }
 
