@@ -31,7 +31,7 @@ function seminarDaten()
 		kreis: "13. - 14. Februar 2021",
 		erde: "4. - 5. September 2021",
 		lebenspartner: "1. - 2. Mai 2021",
-		manifestieren: "12. - 13. Dezember 2020",
+		manifestieren: "11. - 12. Dezember 2021",
 		weltenbeziehungen: "30. Okt. - 3. Nov.",
 		intuitiveAnatomie: "13. - 29. Mai 2021",
 		seelenpartner: "10. - 11. Juli 2021",
