@@ -518,6 +518,40 @@
 			<!--/.Card-->
 		  </div>
 		  <!--Grid column-->
+			
+		  <!--Grid column-->
+		  <div class="col-md-4 mb-4">
+
+			<!--Card-->
+			<div class="card">
+
+			  <!--Card image-->
+			  <div class="view overlay">
+				<img src="img/seminare/regenbogenkinder.jpg" class="card-img-top" alt="Regenbogenkinder Image">
+				<a href="seminare/regenbogenkinder">
+				  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+				</a>
+			  </div>
+			  <!--/.Card image-->
+
+			  <!--Card content-->
+			  <div class="card-body">
+				<!--Title-->
+				<h4 class="card-title text-center"><strong>Regenbogen-Kinder</strong></h4>
+				<hr>
+				<!--Text-->
+				<p class="card-text mb-3">Dieses Seminar ist für Kinder von 12 bis 99 Jahre und verbindet dich auf spielerische Weise mit deinen intuitiven und magischen Fähigkeiten.</p>
+				
+				<p class="regenbogenDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				<p class="font-small grey-text mb-0">Wald ZH</p>
+				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/regenbogenkinder">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+			  </div>
+			  <!--/.Card content-->
+
+			</div>
+			<!--/.Card-->
+		  </div>
+		  <!--Grid column-->
 
 		</div>
 	  <!--First Row-->
@@ -604,7 +638,7 @@
 			
 			<div class="col-md-4">
 				<div class="card card-curriculum-end">
-					<p class="content-curriculum text-white">Regenbogen-Kinder</p>
+					<p class="content-curriculum"><a href="seminare/regenbogenkinder">Regenbogen-Kinder</a></p>
 				</div>
 			</div>
 			
@@ -777,6 +811,13 @@
   
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().regenbogenkinder;
+  	});
+	  
+	var errors = document.querySelectorAll(
+  			   ".tierDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().tierseminar;
   	});
 
   </script>
