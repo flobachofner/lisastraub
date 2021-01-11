@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "8. - 10. Januar 2021",
+		basis: "29. - 31. Januar 2021",
 		aufbau: "19. - 21. Februar 2021",
 		tiefer: "2. - 3. Januar 2021",
 		schoepfer: "12. - 13. Juni 2021",
