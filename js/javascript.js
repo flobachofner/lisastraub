@@ -26,7 +26,7 @@ function seminarDaten()
     return daten = {
 		basis: "29. - 31. Januar 2021",
 		aufbau: "19. - 21. Februar 2021",
-		tiefer: "2. - 3. Januar 2021",
+		tiefer: "17. - 18. April 2021",
 		schoepfer: "12. - 13. Juni 2021",
 		kreis: "13. - 14. Februar 2021",
 		erde: "4. - 5. September 2021",
