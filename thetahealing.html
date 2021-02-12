@@ -190,7 +190,89 @@
 		</section>
 		
 	  
-		
+	  <!--Aktuelles -->
+		<div class="container mt-5 pt-3">
+			<section class="contact-section dark-grey-text my-5 pb-3">
+				<h2 class="text-center">Aktuell</h2>
+					<div class="line"></div>
+
+				<!-- Grid row -->
+				<div class="row mt-5 text-left">
+					
+					<!--Grid column-->
+					  <div class="offset-2 col-md-4 mb-4">
+
+						<!--Card-->
+						<div class="card">
+
+						  <!--Card image-->
+						  <div class="view overlay">
+							<img src="img/seminare/uebungsabend.jpg" class="card-img-top" alt="Img Uebungsabend">
+							<a href="uebungsabend">
+							  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+							</a>
+						  </div>
+						  <!--/.Card image-->
+
+						  <!--Card content-->
+						  <div class="card-body">
+							<!--Title-->
+							<h4 class="card-title text-center"><strong>Übungsabend</strong>&ensp;<span class="badge badge-danger">online</span></h4>
+							<hr>
+							<!--Text-->
+							<p class="card-text mb-3">Der ThetaHealing Übungsabend bietet dir die Gelegenheit, dein Wissen zu vertiefen und an eigenen Themen zu arbeiten.</p>
+							<p class="uebungsabendDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+							<p class="font-small grey-text mb-0">via Zoom</p>
+							<p class="text-right mb-0 font-small font-weight-bold"><a href="uebungsabend">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+						  </div>
+						  <!--/.Card content-->
+
+						</div>
+						<!--/.Card-->
+					  </div>
+					  <!--Grid column-->
+					
+					  <!--Grid column-->
+					  <div class="col-md-4 mb-4">
+
+						<!--Card-->
+						<div class="card">
+
+						  <!--Card image-->
+						  <div class="view overlay">
+							<img src="img/seminare/uebungstag.jpg" class="card-img-top" alt="">
+							<a href="uebungstag">
+							  <div class="mask rgba-white-slight waves-effect waves-light"></div>
+							</a>
+						  </div>
+						  <!--/.Card image-->
+
+						  <!--Card content-->
+						  <div class="card-body">
+							<!--Title-->
+							<h4 class="card-title text-center"><strong>Klangvoller Übungstag</strong></h4>
+							<hr>
+							<!--Text-->
+							<p class="card-text mb-3">Dieser Übungstag dient deiner Heilung und Weiterentwicklung. Du verbindest dich tiefer mit der Erde und dem Himmel sowie deinen Ahnen.</p>
+							<p class="uebungstagDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+							<p class="font-small grey-text mb-0">Wald ZH</p>
+							<p class="text-right mb-0 font-small font-weight-bold"><a href="uebungstag">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+						  </div>
+						  <!--/.Card content-->
+
+						</div>
+						<!--/.Card-->
+					  </div>
+					  <!--Grid column-->
+					</div>
+
+				<a href="seminare" id="btn-seminare" class="btn btn-link rounded-pill mt-3">Zu allen Seminaren &nbsp; <i class="fas fa-angle-right"></i></a>
+
+			</section>
+		</div>
+		<!--Aktuelles -->
+	  
+	  
 
       <!--Section: Rückmeldungen-->
 	  <section class="container text-center dark-grey-text wow fadeIn pb-5">
@@ -380,6 +462,18 @@
   <script type="text/javascript">
     // Animations initialization
     new WOW().init();
+	  
+	var errors = document.querySelectorAll(
+               ".uebungsabendDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungsabend;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".uebungstagDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungstag;
+	});
 
   </script>
 </body>

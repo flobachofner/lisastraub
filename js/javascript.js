@@ -39,7 +39,8 @@ function seminarDaten()
 		regenbogenkinder: "2. - 5. April 2021",
 		krankheiten: "Herbst 2021",
 		tierseminar: "20. März 2021",
-		uebungsabend: "24. Februar 2021"
+		uebungsabend: "24. Februar 2021",
+		uebungstag: "14. März 2021"
 	}
 }
 

@@ -233,8 +233,8 @@
 
 						  <!--Card image-->
 						  <div class="view overlay">
-							<img src="img/seminare/kreis.jpg" class="card-img-top" alt="">
-							<a href="seminare/kreis">
+							<img src="img/seminare/uebungstag.jpg" class="card-img-top" alt="">
+							<a href="uebungstag">
 							  <div class="mask rgba-white-slight waves-effect waves-light"></div>
 							</a>
 						  </div>
@@ -243,13 +243,13 @@
 						  <!--Card content-->
 						  <div class="card-body">
 							<!--Title-->
-							<h4 class="card-title text-center"><strong>Du und dein innerer Kreis</strong></h4>
+							<h4 class="card-title text-center"><strong>Klangvoller Übungstag</strong></h4>
 							<hr>
 							<!--Text-->
-							<p class="card-text mb-3">In diesem Seminar dreht sich alles um deine Beziehungen, Freundschaften - und wie du sie unterstützend gestalten kannst.</p>
-							<p class="kreisDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+							<p class="card-text mb-3">Dieser Übungstag dient deiner Heilung und Weiterentwicklung. Du verbindest dich tiefer mit der Erde und dem Himmel sowie deinen Ahnen.</p>
+							<p class="uebungstagDatum font-small font-weight-bold dark-grey-text mb-2"></p>
 							<p class="font-small grey-text mb-0">Wald ZH</p>
-							<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/kreis">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+							<p class="text-right mb-0 font-small font-weight-bold"><a href="uebungstag">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 						  </div>
 						  <!--/.Card content-->
 
@@ -257,9 +257,7 @@
 						<!--/.Card-->
 					  </div>
 					  <!--Grid column-->
-					
-					<!---->
-			
+								
 					  <!--Grid column-->
 					  <div class="col-sm-6 col-lg-4 mb-4">
 
@@ -586,6 +584,12 @@
                ".uebungsabendDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().uebungsabend;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".uebungstagDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungstag;
 	});
 
   </script>
