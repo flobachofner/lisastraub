@@ -28,7 +28,7 @@ function seminarDaten()
 		aufbau: "26. - 28. März 2021",
 		tiefer: "17. - 18. April 2021",
 		schoepfer: "12. - 13. Juni 2021",
-		kreis: "6. - 7. März 2021",
+		kreis: "Herbst 2021",
 		erde: "4. - 5. September 2021",
 		lebenspartner: "1. - 2. Mai 2021",
 		manifestieren: "11. - 12. Dezember 2021",
@@ -37,9 +37,9 @@ function seminarDaten()
 		seelenpartner: "10. - 11. Juli 2021",
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "2. - 5. April 2021",
-		krankheiten: "Herbst 2021",
+		krankheiten: "Herbst 2022",
 		tierseminar: "20. März 2021",
-		uebungsabend: "24. Februar 2021",
+		uebungsabend: "24. März 2021",
 		uebungstag: "20. Juni 2021"
 	}
 }
