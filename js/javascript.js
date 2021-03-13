@@ -28,7 +28,7 @@ function seminarDaten()
 		aufbau: "26. - 28. März 2021",
 		tiefer: "17. - 18. April 2021",
 		schoepfer: "12. - 13. Juni 2021",
-		kreis: "Herbst 2021",
+		kreis: "02. - 03. Oktober 2021",
 		erde: "4. - 5. September 2021",
 		lebenspartner: "1. - 2. Mai 2021",
 		manifestieren: "11. - 12. Dezember 2021",
