@@ -38,7 +38,6 @@ function seminarDaten()
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "2. - 5. April 2021",
 		krankheiten: "Herbst 2022",
-		tierseminar: "20. März 2021",
 		uebungsabend: "24. März 2021",
 		uebungstag: "20. Juni 2021"
 	}
