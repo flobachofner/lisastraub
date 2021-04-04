@@ -36,7 +36,7 @@ function seminarDaten()
 		intuitiveAnatomie: "13. - 29. Mai 2021",
 		seelenpartner: "10. - 11. Juli 2021",
 		rhythm: "Herbst 2021",
-		regenbogenkinder: "2. - 5. April 2021",
+		regenbogenkinder: "Sommer 2021",
 		krankheiten: "Herbst 2022",
 		uebungsabend: "28. April 2021",
 		uebungstag: "20. Juni 2021"
