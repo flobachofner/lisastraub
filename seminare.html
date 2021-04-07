@@ -900,6 +900,19 @@
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().tierseminar;
   	});
+	  
+	var errors = document.querySelectorAll(
+               ".uebungsabendDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungsabend;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".uebungstagDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().uebungstag;
+	});
+
 
   </script>
 </body>
