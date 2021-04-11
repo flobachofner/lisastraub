@@ -33,7 +33,7 @@ function seminarDaten()
 		lebenspartner: "1. - 2. Mai 2021",
 		manifestieren: "11. - 12. Dezember 2021",
 		weltenbeziehungen: "18. - 22. September 2021",
-		intuitiveAnatomie: "13. - 29. Mai 2021",
+		intuitiveAnatomie: "Herbst 2021",
 		seelenpartner: "10. - 11. Juli 2021",
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "Sommer 2021",
