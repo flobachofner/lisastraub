@@ -267,8 +267,8 @@
 
 			  <!--Card image-->
 			  <div class="view overlay">
-				<img src="img/seminare/intuitive-anatomie.jpg" class="card-img-top" alt="">
-				<a href="seminare/intuitive-anatomie">
+				<img src="img/seminare/trommelabend.jpg" class="card-img-top" alt="">
+				<a href="trommelabend">
 				  <div class="mask rgba-white-slight waves-effect waves-light"></div>
 				</a>
 			  </div>
@@ -277,14 +277,14 @@
 			  <!--Card content-->
 			  <div class="card-body">
 				<!--Title-->
-				<h4 class="card-title text-center"><strong>Intuitive Anatomie</strong></h4>
+				<h4 class="card-title text-center"><strong>Singen &amp; Trommeln</strong></h4>
 				<hr>
 				<!--Text-->
-				<p class="card-text mb-3">Das Seminar <strong>Intuitive Anatomie</strong> ist eine fünfzehntägige, tief transformierende Entdeckungsreise durch deinen Körper.</p>
+				<p class="card-text mb-3">Mit singen und trommeln verbringen wir einen Abend voller Lebensfreude und Verbundenheit. Keine Vorkenntnisse nötig!</p>
 				
-				<p class="intuitiveAnatomieDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+				<p class="trommelabendDatum font-small font-weight-bold dark-grey-text mb-2"></p>
 				<p class="font-small grey-text mb-0">Wald ZH</p>
-				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/intuitive-anatomie">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+				<p class="text-right mb-0 font-small font-weight-bold"><a href="trommelabend">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 			  </div>
 			  <!--/.Card content-->
 
@@ -616,6 +616,12 @@
                ".uebungstagDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().uebungstag;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".trommelabendDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().trommelabend;
 	});
 	  
 	  

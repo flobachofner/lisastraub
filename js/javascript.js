@@ -33,13 +33,14 @@ function seminarDaten()
 		lebenspartner: "1. - 2. Mai 2021",
 		manifestieren: "11. - 12. Dezember 2021",
 		weltenbeziehungen: "18. - 22. September 2021",
-		intuitiveAnatomie: "Herbst 2021",
+		intuitiveAnatomie: "Noch offen",
 		seelenpartner: "10. - 11. Juli 2021",
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "Sommer 2021",
 		krankheiten: "Herbst 2022",
 		uebungsabend: "28. April 2021",
-		uebungstag: "20. Juni 2021"
+		uebungstag: "20. Juni 2021",
+		trommelabend: "26. Mai 2021"
 	}
 }
 
