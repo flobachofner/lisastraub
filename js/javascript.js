@@ -38,7 +38,7 @@ function seminarDaten()
 		rhythm: "Herbst 2021",
 		regenbogenkinder: "Sommer 2021",
 		krankheiten: "Herbst 2022",
-		uebungsabend: "28. April 2021",
+		uebungsabend: "2. Juni 2021",
 		uebungstag: "20. Juni 2021",
 		trommelabend: "26. Mai 2021"
 	}
