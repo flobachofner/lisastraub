@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "16. - 18. Juli 2021",
+		basis: "16. - 18.06.2021 / 25. - 27.06.2021 online",
 		aufbau: "10. - 12. September 2021",
 		tiefer: "5. - 6. Juni 2021",
 		schoepfer: "12. - 13. Juni 2021",
