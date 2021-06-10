@@ -39,7 +39,7 @@ function seminarDaten()
 		regenbogenkinder: "Sommer 2021",
 		krankheiten: "Herbst 2022",
 		uebungsabend: "2. Juni 2021",
-		uebungstag: "20. Juni 2021",
+		uebungstag: "Juli 2021",
 		trommelabend: "26. Mai 2021"
 	}
 }
