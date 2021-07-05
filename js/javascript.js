@@ -24,22 +24,22 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "16. - 18.07.2021 / 25. - 27.06.2021 online",
+		basis: "16. - 18. Juli 2021",
 		aufbau: "10. - 12. September 2021",
-		tiefer: "5. - 6. Juni 2021",
-		schoepfer: "12. - 13. Juni 2021",
-		kreis: "02. - 03. Oktober 2021",
+		tiefer: "30. - 31. Oktober 2021",
+		schoepfer: "Winter 2021",
+		kreis: "9. - 10. Oktober 2021",
 		erde: "4. - 5. September 2021",
-		lebenspartner: "29. - 30. Mai 2021",
+		lebenspartner: "Frühling 2022",
 		manifestieren: "11. - 12. Dezember 2021",
-		weltenbeziehungen: "18. - 22. September 2021",
+		weltenbeziehungen: "25. - 29. September 2021",
 		intuitiveAnatomie: "Noch offen",
-		seelenpartner: "10. - 11. Juli 2021",
+		seelenpartner: "Frühling 2022",
 		rhythm: "Herbst 2021",
-		regenbogenkinder: "Sommer 2021",
+		regenbogenkinder: "Frühling 2022",
 		krankheiten: "Herbst 2022",
-		uebungsabend: "2. Juni 2021",
-		uebungstag: "Juli 2021",
+		uebungsabend: "6. Oktober 2021",
+		uebungstag: "22. August 2021",
 		trommelabend: "26. Mai 2021"
 	}
 }
