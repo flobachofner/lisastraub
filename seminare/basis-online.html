@@ -144,7 +144,7 @@
 	  <section class="wow fadeIn">
 
 		<!-- Section heading -->
-		  <h2 class="mt-3 mb-5 text-center">Basis DNA</h2>
+		<h2 class="mt-3 mb-5 text-center">Basis DNA&ensp;<span class="badge badge-danger">online</span></h2>
 		  
 		<p class="text-center w-responsive mx-auto mb-5">Im Basis DNA Seminar lernst du die Philosophie und Grundtechniken von ThetaHealing kennen und anwenden. <br><br> Du wirst dich von alten, hinderlichen Glaubensmustern lösen und mit positiven Gedanken und Gefühlen voranschreiten. Im Anschluss an das Seminar wird es dir immer mehr möglich sein, DAS Leben zu kreieren, das du dir von Herzen wünschst.</p>
 
@@ -153,7 +153,7 @@
 				<p>Jonastrasse 7, 8636 Wald ZH</p>
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
-				<p class="basisDatum"></p>
+				<p class="basisOnlineDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 620.-</p>
@@ -231,17 +231,16 @@
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-dollar-sign mb-4"></i>
 						<p>Fr 620.-</p>
+						<p>Preis in EUR auf Anfrage</p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
-						<p class="basisDatum"></p>
+						<p class="basisOnlineDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
-						<p>Fr - 10 bis 17:30 Uhr<br>Sa - 10 bis 17:30 Uhr<br>So - 10 bis 16:30 Uhr</p>
+						<p>9:30 bis 14 Uhr</p>
 					</div>
 				</div>
-			
-			<br><br>
-			
+						
 			<div class="row pt-5">
 				<p class="dark-section-content col-8 offset-2">Im Kurs inbegriffen ist das ThetaHealing Seminarhandbuch, das Buch <a href="https://www.w-cooperations.ch/shop-de/thetahealing-die-heilkraft-der-schoepfung/">ThetaHealing - Die Heilkraft der Schöpfung</a>, das Zertifikat von Vianna Stibal's THinK - Institute of Knowledge sowie Getränke und Snacks in den Pausen.</p>
 			</div>
@@ -323,10 +322,10 @@
   	new WOW().init();
   
   	var errors = document.querySelectorAll(
-  			   ".basisDatum");
+  			   ".basisOnlineDatum");
   
   	[].forEach.call(errors, function(error) {
-  	  error.innerHTML=seminarDaten().basis;
+  	  error.innerHTML=seminarDaten().basisOnline;
   	});
 	  
 	var loadCounter = 0;

@@ -190,6 +190,44 @@
 				<div class="col-md-3">
 				  <!--Image-->
 				  <div class="overlay rounded z-depth-1 mb-4">
+					<img class="img-fluid card-img-top" src="../img/seminare/basis.jpg" alt="Weltenbeziehungen image">
+					<a>
+					  <div class="mask rgba-white-slight"></div>
+					</a>
+				  </div>
+				</div>
+				<!-- Grid column -->
+				  
+				<!-- Grid column -->
+				<div class="col-md-9">
+
+				  <!-- Excerpt -->
+				  <h4 class="card-title"><strong>Basis DNA</strong>&ensp;<span class="badge badge-danger">online</span></h4>
+					
+				  <div class="d-flex justify-content-between">
+					  <div class="col-10 pl-0 mb-3">
+					  <p class="font-weight-bold dark-grey-text">30. Aug - 1. Sept 2021</p>
+					  <p>Im <strong>Basis DNA</strong> Seminar lernst du die Philosophie und Grundtechniken von ThetaHealing kennen und anwenden</p>				
+					</div>
+		
+					<p class="text-right mb-0 font-small font-weight-bold"><a href="../seminare/basis-online" target="_self">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+				  </div>
+				</div>
+				<!-- Grid column -->
+			  </div>
+			  <!-- Grid row -->
+			<hr>
+			</div>
+			<!-- Small news -->
+			  
+			<!-- Small news -->
+			<div class="single-news mb-4 pt-3">
+			  <!-- Grid row -->
+			  <div class="row">
+				<!-- Grid column -->
+				<div class="col-md-3">
+				  <!--Image-->
+				  <div class="overlay rounded z-depth-1 mb-4">
 					<img class="img-fluid card-img-top" src="../img/seminare/erde_2.jpg" alt="Erde image">
 					<a>
 					  <div class="mask rgba-white-slight"></div>
@@ -530,6 +568,12 @@
                ".basisDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().basis;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".basisOnlineDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().basisOnline;
 	});
 	  
 	var errors = document.querySelectorAll(
