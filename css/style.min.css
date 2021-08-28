@@ -699,7 +699,7 @@ footer {
     line-height: 1.6;
 }
 
-#btn-seminare {
+#btn-seminare, #btn-shop {
 	left: 50%;
 	-webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
