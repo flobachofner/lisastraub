@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "1. - 3. Oktober 2021",
-		basisOnline: "30. Aug - 1. Sept 2021",
+		basisOnline: "",
 		aufbau: "10. - 12. September 2021",
 		tiefer: "30. - 31. Oktober 2021",
 		schoepfer: "Winter 2021",
