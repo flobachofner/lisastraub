@@ -40,8 +40,8 @@ function seminarDaten()
 		regenbogenkinder: "Frühling 2022",
 		krankheiten: "Herbst 2022",
 		uebungsabend: "6. Oktober 2021",
-		uebungstag:
-		trommelabend: 
+		uebungstag: "",
+		trommelabend: "",
 	}
 }
 
