@@ -599,6 +599,38 @@ top: 19px;
 	color: #fff;
 }
 
+.empfehlung::before{
+  position: absolute;
+  content: '';
+  background: #212529;
+  height: 28px;
+  width: 28px;
+  top: 2.3rem;
+  left: -0.5rem;
+  transform : rotate(45deg);
+  z-index: -100;
+}
+
+.empfehlung::after{
+  position: absolute;
+  content: "Lisa's special";
+  font-family: freight-display-pro, serif;
+  font-size: 16px;
+  letter-spacing: 1.2px;
+  font-style: italic;
+  top: 11px;
+  left: -14px;
+  padding: 0.5rem;
+  width: 10rem;
+  background: #FFE4C8;
+  color: #1A1A1A;
+  text-align: center;
+  box-shadow: 4px 4px 15px rgba(26, 35, 126, 0.2);
+}
+
+.card {
+	transform: scale(1.0);
+}
 
 /* Curriculum */
 
