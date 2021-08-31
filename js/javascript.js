@@ -24,8 +24,8 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "1. - 3. Oktober 2021",
-		basisOnline: "",
+		basis: "Noch offen",
+		basisOnline: "Noch offen",
 		aufbau: "10. - 12. September 2021",
 		tiefer: "30. - 31. Oktober 2021",
 		schoepfer: "Winter 2021",
@@ -40,8 +40,8 @@ function seminarDaten()
 		regenbogenkinder: "Frühling 2022",
 		krankheiten: "Herbst 2022",
 		uebungsabend: "6. Oktober 2021",
-		uebungstag: "",
-		trommelabend: "",
+		uebungstag: "Noch offen",
+		trommelabend: "Noch offen"
 	}
 }
 
