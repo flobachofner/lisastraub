@@ -33,7 +33,7 @@ function seminarDaten()
 		erde: "4. - 5. September 2021",
 		lebenspartner: "Frühling 2022",
 		manifestieren: "11. - 12. Dezember 2021",
-		weltenbeziehungen: "25. - 29. September 2021",
+		weltenbeziehungen: " Frühling 2022",
 		intuitiveAnatomie: "Noch offen",
 		seelenpartner: "Frühling 2022",
 		rhythm: "Herbst 2021",
