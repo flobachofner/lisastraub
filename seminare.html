@@ -278,7 +278,7 @@
 				<hr>
 				<!--Text-->
 				<p class="card-text mb-3">Wir räumen auf und misten aus. Du schulst deine Wahrnehmung und lernst, deinen Körper auf Empfang zu schalten.</p>
-				<p class="font-small font-weight-bold dark-grey-text mb-2">Oktober 2021</p>
+				<p class="fuelleDatum font-small font-weight-bold dark-grey-text mb-2"></p>
 				<p class="font-small grey-text mb-0">Online via Zoom</p>
 				<p class="text-right mb-0 font-small font-weight-bold"><a href="seminare/fuelle-pur">weitere Infos <i class="fas fa-angle-right"></i></a></p>
 			  </div>
@@ -913,6 +913,12 @@
                ".uebungstagDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().uebungstag;
+	});
+	  
+	var errors = document.querySelectorAll(
+               ".fuelleDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().fuelle;
 	});
 
 
