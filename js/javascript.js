@@ -41,7 +41,8 @@ function seminarDaten()
 		krankheiten: "Herbst 2022",
 		uebungsabend: "6. Oktober 2021",
 		uebungstag: "Noch offen",
-		trommelabend: "Noch offen"
+		trommelabend: "Noch offen",
+		fuelle: "Oktober 2021",
 	}
 }
 
