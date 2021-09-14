@@ -29,7 +29,7 @@ function seminarDaten()
 		aufbau: "10. - 12. September 2021",
 		tiefer: "30. - 31. Oktober 2021",
 		schoepfer: "Winter 2021",
-		kreis: "9. - 10. Oktober 2021",
+		kreis: "Sommer 2022",
 		erde: "4. - 5. September 2021",
 		lebenspartner: "Frühling 2022",
 		manifestieren: "11. - 12. Dezember 2021",
