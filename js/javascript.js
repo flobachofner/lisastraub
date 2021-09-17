@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "Noch offen",
+		basis: "Winter 2022",
 		basisOnline: "Noch offen",
 		aufbau: "10. - 12. September 2021",
 		tiefer: "30. - 31. Oktober 2021",
