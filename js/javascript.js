@@ -39,10 +39,10 @@ function seminarDaten()
 		rhythm: "2022",
 		regenbogenkinder: "Frühling 2022",
 		krankheiten: "Herbst 2022",
-		uebungsabend: "6. Oktober 2021",
+		uebungsabend: "3. November 2021",
 		uebungstag: "Noch offen",
 		trommelabend: "Noch offen",
-		fuelle: "Oktober 2021",
+		fuelle: "2022",
 	}
 }
 
