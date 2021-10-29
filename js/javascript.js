@@ -42,7 +42,7 @@ function seminarDaten()
 		uebungsabend: "3. November 2021",
 		uebungstag: "Noch offen",
 		trommelabend: "Noch offen",
-		fuelle: "2022",
+		fuelle: "Januar 2022",
 	}
 }
 
