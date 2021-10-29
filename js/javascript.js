@@ -20,14 +20,14 @@ $(document).ready(function(){
    });
 });
 
-// Variablen Seminardaten 
+// Variablen Seminardaten
 function seminarDaten()
 {
     return daten = {
-		basis: "Winter 2022",
+		basis: "21. - 23. Januar 2022",
 		basisOnline: "2022",
-		aufbau: "Frühling 2022",
-		tiefer: "30. - 31. Oktober 2021",
+		aufbau: "25. - 27. Februar 2022",
+		tiefer: "26. - 27. März 2022",
 		schoepfer: "2022",
 		kreis: "Sommer 2022",
 		erde: "Herbst 2022",
