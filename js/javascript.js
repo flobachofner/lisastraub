@@ -34,7 +34,7 @@ function seminarDaten()
 		lebenspartner: "Frühling 2022",
 		manifestieren: "11. - 12. Dezember 2021",
 		weltenbeziehungen: "Frühling 2022",
-		intuitiveAnatomie: "2022",
+		intuitiveAnatomie: "9. - 24. Juli 2022",
 		seelenpartner: "2022",
 		rhythm: "2022",
 		regenbogenkinder: "Frühling 2022",
