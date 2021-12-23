@@ -32,7 +32,7 @@ function seminarDaten()
 		kreis: "Sommer 2022",
 		erde: "Herbst 2022",
 		lebenspartner: "Frühling 2022",
-		manifestieren: "11. - 12. Dezember 2021",
+		manifestieren: "Winter 2022",
 		weltenbeziehungen: "Frühling 2022",
 		intuitiveAnatomie: "9. - 24. Juli 2022",
 		seelenpartner: "2022",
@@ -42,7 +42,7 @@ function seminarDaten()
 		uebungsabend: "3. November 2021",
 		uebungstag: "Noch offen",
 		trommelabend: "Noch offen",
-		fuelle: "Januar 2022",
+		fuelle: "Ab 17. Januar 2022",
 	}
 }
 
