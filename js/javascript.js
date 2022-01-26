@@ -27,6 +27,7 @@ function seminarDaten()
 		basis: "21. - 23. Januar 2022",
 		basisOnline: "22. - 24. April 2022",
 		aufbau: "25. - 27. Februar 2022",
+		aufbauOnline: "27. - 29. Mai 2022",
 		tiefer: "26. - 27. März 2022",
 		schoepfer: "25. - 26. Juni 2022",
 		kreis: "Frühling 2023",
