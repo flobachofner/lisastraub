@@ -41,7 +41,7 @@ function seminarDaten()
 		regenbogenkinder: "Frühling 2023",
 		krankheiten: "2023",
 		uebungsabend: "2. März 2022",
-		uebungstag: "Noch offen",
+		uebungstag: "2. April 2022",
 		trommelabend: "Noch offen",
 		fuelle: "Ab 17. Januar 2022",
 	}
