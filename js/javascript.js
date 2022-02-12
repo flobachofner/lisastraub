@@ -44,6 +44,7 @@ function seminarDaten()
 		uebungstag: "2. April 2022",
 		trommelabend: "Noch offen",
 		fuelle: "Ab 17. Januar 2022",
+		segel: "Ab 26. April 2022"
 	}
 }
 

@@ -641,6 +641,12 @@
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().fuelle;
 	});
+	  
+	var errors = document.querySelectorAll(
+               ".segelDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().segel;
+	});
 
   </script>
 </body>
