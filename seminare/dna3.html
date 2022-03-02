@@ -157,7 +157,9 @@
 				<a href="https://hamah.ch/" target="_blank">HAMAH Retreat &amp; Health Center</a>
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
-				<p class="aufbauDatum"></p>
+				<p class="dna3Datum"></p>
+				<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+				<p class="dna3SchlussDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 620.-</p>
@@ -331,10 +333,17 @@
 	new WOW().init();
 	
 	var errors = document.querySelectorAll(
-               ".aufbauDatum");
+               ".dna3Datum");
 
 	[].forEach.call(errors, function(error) {
-	  error.innerHTML=seminarDaten().aufbau;
+	  error.innerHTML=seminarDaten().dna3;
+	});
+	
+	var errors = document.querySelectorAll(
+               ".dna3SchlussDatum");
+
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().dna3Schluss;
 	});
 	
 	var loadCounter = 0;

@@ -158,6 +158,8 @@
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
 				<p class="aufbauDatum"></p>
+				<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+				<p class="aufbauSchlussDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 620.-</p>
@@ -335,6 +337,13 @@
 
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().aufbau;
+	});
+	
+	var errors = document.querySelectorAll(
+               ".aufbauSchlussDatum");
+
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().aufbauSchluss;
 	});
 	
 	var loadCounter = 0;

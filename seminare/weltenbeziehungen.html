@@ -241,6 +241,8 @@
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
 						<p class="weltenbeziehungenDatum"></p>
+						<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+						<p class="weltenbeziehungenSchlussDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>Sa - Mi <br> 10 bis 17:30 Uhr</p>
@@ -334,6 +336,13 @@
   
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().weltenbeziehungen;
+  	});
+	
+	var errors = document.querySelectorAll(
+  			   ".weltenbeziehungenSchlussDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().weltenbeziehungenSchluss;
   	});
 	  
 	var loadCounter = 0;

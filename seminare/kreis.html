@@ -160,6 +160,8 @@
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
 				<p class="kreisDatum"></p>
+				<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+				<p class="kreisSchlussDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 440.-</p>
@@ -333,6 +335,13 @@
   
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().kreis;
+  	});
+	
+	var errors = document.querySelectorAll(
+  			   ".kreisSchlussDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().kreisSchluss;
   	});
 	  
 	var loadCounter = 0;

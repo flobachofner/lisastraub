@@ -157,6 +157,8 @@
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
 				<p class="basisOnlineDatum"></p>
+				<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+				<p class="basisOnlineSchlussDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>Fr. 620.-</p>
@@ -330,6 +332,13 @@
   
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().basisOnline;
+  	});
+	
+	var errors = document.querySelectorAll(
+  			   ".basisOnlineSchlussDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().basisOnlineSchluss;
   	});
 	  
 	var loadCounter = 0;

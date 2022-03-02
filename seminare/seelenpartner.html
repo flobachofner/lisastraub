@@ -241,6 +241,8 @@
 					</div>
 					<div class="col-lg-3 col-6"><i class="fas fa-calendar-day mb-4"></i>
 						<p class="seelenpartnerDatum"></p>
+						<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+						<p class="seelenpartnerSchlussDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>Sa - 10 bis 17:30 Uhr
@@ -336,6 +338,14 @@
   	[].forEach.call(errors, function(error) {
   	  error.innerHTML=seminarDaten().seelenpartner;
   	});
+	
+	var errors = document.querySelectorAll(
+  			   ".seelenpartnerSchlussDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().seelenpartnerSchluss;
+  	});
+    
     
 	var loadCounter = 0;
     var loaded = function() {

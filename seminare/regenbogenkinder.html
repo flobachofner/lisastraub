@@ -161,6 +161,8 @@
 			</div>
 			<div class="col-log-2 col-3 border-top-big border-right-big text-center pt-3">
 				<p class="regenbogenDatum"></p>
+				<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+				<p class="regenbogenSchlussDatum"></p>
 			</div>
 			<div class="col-lg-1 col-2 border-top-big border-right-big text-center pt-3">
 				<p>940.-</p>
@@ -334,7 +336,14 @@
   			   ".regenbogenDatum");
   
   	[].forEach.call(errors, function(error) {
-  	  error.innerHTML=seminarDaten().regenbogenkinder;
+  	  error.innerHTML=seminarDaten().regenbogen;
+  	});
+	
+	var errors = document.querySelectorAll(
+  			   ".regenbogenSchlussDatum");
+  
+  	[].forEach.call(errors, function(error) {
+  	  error.innerHTML=seminarDaten().regenbogenSchluss;
   	});
 	  
 	var loadCounter = 0;

@@ -243,7 +243,7 @@
 					<div class="line"></div>
 				</div>
 			
-				<div class="row py-3">
+				<div class="row pt-3">
 					<div class="col-lg-3 col-6"><i class="fas fa-map-marker-alt mb-4"></i>
 						<p>Online via Zoom
 						<br><br>
@@ -259,6 +259,8 @@
 						<p>26. April
 						<br>3. / 10. / 17. / 24. / 31. Mai 
 						<br>7. / 14. / 21. / 28. Juni</p>
+						<p class="mb-0 font-weight-bold dark-grey-text">Anmeldeschluss</p>
+						<p class="segelSchlussDatum"></p>
 					</div>
 					<div class="col-lg-3 col-6"><i class="far fa-clock mb-4"></i>
 						<p>19:30 bis ca 21:30 Uhr
@@ -268,7 +270,7 @@
 			
 			<br><br>
 			
-			<div class="row pt-2">
+			<div class="row">
 				<p class="dark-section-content col-8 offset-2">Wir treffen uns online via Zoom. Falls du mal nicht dabei sein kannst - kein Problem. <br>Jede Session wird aufgezeichnet und du kannst sie jederzeit nachhören.</p>
 			</div>
 			
@@ -352,6 +354,12 @@
                ".segelDatum");
 	[].forEach.call(errors, function(error) {
 	  error.innerHTML=seminarDaten().segel;
+	});
+	
+	var errors = document.querySelectorAll(
+               ".segelSchlussDatum");
+	[].forEach.call(errors, function(error) {
+	  error.innerHTML=seminarDaten().segelSchluss;
 	});
 	  
 	var loadCounter = 0;
