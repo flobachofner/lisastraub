@@ -37,8 +37,8 @@ function seminarDaten()
 		dna3: "",
 		dna3Schluss: "",
 		
-		tiefer: "26. - 27. März 2022",
-		tieferSchluss: "19. März 2022",
+		tiefer: "1. - 2. Oktober 2022",
+		tieferSchluss: "23. September 2022",
 		schoepfer: "25. - 26. Juni 2022",
 		schoepferSchluss: "18. Juni 2022",
 		kreis: "Frühling 2023",
@@ -62,8 +62,8 @@ function seminarDaten()
 		krankheiten: "Sommer 2023",
 		krankheitenSchluss: "Sommer 2023",
 		
-		uebungsabend: "2. März 2022",
-		uebungstag: "2. April 2022",
+		uebungsabend: "2. Mai 2022",
+		uebungstag: "2. Juli 2022",
 		trommelabend: "Noch offen",
 		
 		fuelle: "Ab 17. Januar 2022",
