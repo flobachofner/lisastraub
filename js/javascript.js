@@ -26,8 +26,8 @@ function seminarDaten()
     return daten = {
 		basis: "Herbst 2022",
 		basisSchluss: "Herbst 2022",
-		basisOnline: "22. - 24. April 2022",
-		basisOnlineSchluss: "15. April 2022",
+		basisOnline: "22. - 24. April 2022 | Ausgebucht",
+		basisOnlineSchluss: "Ausgebucht",
 		
 		aufbau: "Frühling 2023",
 		aufbauSchluss: "Frühling 2023",
