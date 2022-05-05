@@ -26,8 +26,8 @@ function seminarDaten()
     return daten = {
 		basis: "Herbst 2022",
 		basisSchluss: "Herbst 2022",
-		basisOnline: "Herbst 2022",
-		basisOnlineSchluss: "Herbst 2022",
+		basisOnline: "26. - 28. August 2022",
+		basisOnlineSchluss: "19. August 2022",
 		
 		aufbau: "Frühling 2023",
 		aufbauSchluss: "Frühling 2023",
@@ -62,7 +62,7 @@ function seminarDaten()
 		krankheiten: "Sommer 2023",
 		krankheitenSchluss: "Sommer 2023",
 		
-		uebungsabend: "8.Juni 2022",
+		uebungsabend: "2.Juni 2022",
 		uebungstag: "2. Juli 2022",
 		trommelabend: "Noch offen",
 		
