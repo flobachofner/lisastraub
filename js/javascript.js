@@ -31,7 +31,7 @@ function seminarDaten()
 		
 		aufbau: "Frühling 2023",
 		aufbauSchluss: "Frühling 2023",
-		aufbauOnline: "27. - 29. Mai 2022",
+		aufbauOnline: "27. - 29. Mai 2022", // 23. - 25. September 2022
 		aufbauOnlineSchluss: "20. Mai 2022",
 		
 		dna3: "16. - 20. Dezember 2022",
