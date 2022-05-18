@@ -66,9 +66,8 @@ function seminarDaten()
 		uebungstag: "2. Juli 2022",
 		trommelabend: "Noch offen",
 		
-		fuelle: "Ab 17. Januar 2022",
-		segel: "Ab 26. April 2022",
-		segelSchluss: "19. April 2022"
+		special: "Juli bis Sept 2022",
+		specialSchluss: "16. Juli 2022"
 	}
 }
 
