@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "Herbst 2022",
+		basis: "14. - 16. Oktober 2022",
 		basisSchluss: "Herbst 2022",
 		basisOnline: "26. - 28. August 2022",
 		basisOnlineSchluss: "19. August 2022",
