@@ -62,8 +62,8 @@ function seminarDaten()
 		krankheiten: "Sommer 2023",
 		krankheitenSchluss: "Sommer 2023",
 		
-		uebungsabend: "2.Juni 2022",
-		uebungstag: "2. Juli 2022",
+		uebungsabend: "2. August 2022",
+		uebungstag: "2023",
 		trommelabend: "Noch offen",
 		
 		special: "Juli bis Sept 2022",
