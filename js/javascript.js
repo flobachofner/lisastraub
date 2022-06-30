@@ -39,8 +39,8 @@ function seminarDaten()
 		
 		tiefer: "1. - 2. Oktober 2022",
 		tieferSchluss: "23. September 2022",
-		schoepfer: "25. - 26. Juni 2022",
-		schoepferSchluss: "18. Juni 2022",
+		schoepfer: "29. - 30. Oktober 2022",
+		schoepferSchluss: "22. Oktober 2022",
 		kreis: "Frühling 2023",
 		kreisSchluss: "Frühling 2023",
 		erde: "10. - 11. September 2022",
