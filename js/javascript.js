@@ -34,8 +34,8 @@ function seminarDaten()
 		aufbauOnline: "23. - 25. September 2022",
 		aufbauOnlineSchluss: "16. September 2022",
 		
-		dna3: "16. - 20. Dezember 2022",
-		dna3Schluss: "9. Dezember 2022",
+		dna3: "Frühling 2023",
+		dna3Schluss: "tba",
 		
 		tiefer: "1. - 2. Oktober 2022",
 		tieferSchluss: "23. September 2022",
