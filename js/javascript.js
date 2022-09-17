@@ -37,7 +37,7 @@ function seminarDaten()
 		dna3: "Frühling 2023",
 		dna3Schluss: "tba",
 		
-		tiefer: "1. - 2. Oktober 2022",
+		tiefer: "1. - 2. Oktober 2022 | Ausgebucht",
 		tieferSchluss: "23. September 2022",
 		schoepfer: "29. - 30. Oktober 2022",
 		schoepferSchluss: "22. Oktober 2022",
