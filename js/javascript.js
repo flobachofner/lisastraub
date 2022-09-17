@@ -32,7 +32,7 @@ function seminarDaten()
 		
 		dna3: "Frühling 2023",
 		
-		tiefer: "1. - 2. Oktober 2022 | Ausgebucht",
+		tiefer: "1. - 2. Oktober 2022",
 		schoepfer: "29. - 30. Oktober 2022",
 		kreis: "Frühling 2023",
 		erde: "10. - 11. September 2022",
