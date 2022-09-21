@@ -28,7 +28,7 @@ function seminarDaten()
 		basisOnline: "26. - 28. August 2022",
 		
 		aufbau: "Frühling 2023",
-		aufbauOnline: "23. - 25. September 2022",
+		aufbauOnline: "Frühling 2023",
 		
 		dna3: "Frühling 2023",
 		
