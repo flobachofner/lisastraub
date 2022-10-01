@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "14. - 16. Oktober 2022",
-		basisOnline: "26. - 28. August 2022",
+		basisOnline: "November 2022",
 		
 		aufbau: "Frühling 2023",
 		aufbauOnline: "Frühling 2023",
@@ -35,17 +35,17 @@ function seminarDaten()
 		tiefer: "1. - 2. Oktober 2022 | Ausgebucht",
 		schoepfer: "29. - 30. Oktober 2022",
 		kreis: "Frühling 2023",
-		erde: "10. - 11. September 2022",
-		lebenspartner: "20. - 21. August 2022",
+		erde: "Herbst 2023",
+		lebenspartner: "Sommer 2023",
 		manifestieren: "10. - 11. Dezember 2022",
-		weltenbeziehungen: "Herbst 2023",
-		intuitiveAnatomie: "09. - 24. Juli 2022",
-		seelenpartner: "Herbst 2022",
-		rhythm: "Frühling 2023",
+		weltenbeziehungen: "2023",
+		intuitiveAnatomie: "Sommer 2023",
+		seelenpartner: "Herbst 2023",
+		rhythm: "2023",
 		regenbogen: "Frühling 2023",
 		krankheiten: "Sommer 2023",
 		
-		uebungsabend: "2. August 2022",
+		uebungsabend: "2. November 2022",
 		uebungstag: "2023",
 		trommelabend: "Noch offen",
 		
