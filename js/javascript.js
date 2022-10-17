@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "14. - 16. Oktober 2022",
+		basis: "2023",
 		basisOnline: "November 2022",
 		
 		aufbau: "Frühling 2023",
@@ -32,7 +32,7 @@ function seminarDaten()
 		
 		dna3: "Frühling 2023",
 		
-		tiefer: "1. - 2. Oktober 2022 | Ausgebucht",
+		tiefer: "2023",
 		schoepfer: "29. - 30. Oktober 2022",
 		kreis: "Frühling 2023",
 		erde: "Herbst 2023",
