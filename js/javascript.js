@@ -33,7 +33,7 @@ function seminarDaten()
 		dna3: "Frühling 2023",
 		
 		tiefer: "2023",
-		schoepfer: "29. - 30. Oktober 2022",
+		schoepfer: "Frühling 2023",
 		kreis: "Frühling 2023",
 		erde: "Herbst 2023",
 		lebenspartner: "Sommer 2023",
