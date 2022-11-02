@@ -45,7 +45,7 @@ function seminarDaten()
 		regenbogen: "Frühling 2023",
 		krankheiten: "Sommer 2023",
 		
-		uebungsabend: "2. November 2022",
+		uebungsabend: "2023",
 		uebungstag: "2023",
 		trommelabend: "Noch offen",
 		
