@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "November 2022",
+		basisOnline: "Januar 2023",
 		
 		aufbau: "Frühling 2023",
 		aufbauOnline: "Frühling 2023",
@@ -33,7 +33,7 @@ function seminarDaten()
 		dna3: "Frühling 2023",
 		
 		tiefer: "2023",
-		schoepfer: "29. - 30. Oktober 2022",
+		schoepfer: "Frühling 2023",
 		kreis: "Frühling 2023",
 		erde: "Herbst 2023",
 		lebenspartner: "Sommer 2023",
