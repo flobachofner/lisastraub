@@ -45,8 +45,8 @@ function seminarDaten()
 		regenbogen: "Frühling 2023",
 		krankheiten: "Sommer 2023",
 		
-		uebungsabend: "2. Dezember 2022",
-		uebungstag: "2023",
+		uebungsabend: "3. Januar 2023",
+		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
 		special: "Juli bis Sept 2022",
