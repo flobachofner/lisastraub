@@ -28,11 +28,11 @@ function seminarDaten()
 		basisOnline: "6. - 8. Januar 2023",
 		
 		aufbau: "Frühling 2023",
-		aufbauOnline: "Frühling 2023",
+		aufbauOnline: "23. - 26. Februar 2023",
 		
 		dna3: "Frühling 2023",
 		
-		tiefer: "2023",
+		tiefer: "Frühling 2023",
 		schoepfer: "Frühling 2023",
 		kreis: "Frühling 2023",
 		erde: "Herbst 2023",
