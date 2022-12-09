@@ -32,10 +32,10 @@ function seminarDaten()
 		
 		dna3: "Frühling 2023",
 		
-		tiefer: "Frühling 2023",
+		tiefer: "22. - 23. April 2023",
 		schoepfer: "Frühling 2023",
 		kreis: "Frühling 2023",
-		erde: "Herbst 2023",
+		erde: "2. - 3. September 2023",
 		lebenspartner: "Sommer 2023",
 		manifestieren: "10. - 11. Dezember 2022",
 		weltenbeziehungen: "2023",
