@@ -37,7 +37,7 @@ function seminarDaten()
 		kreis: "Frühling 2023",
 		erde: "2. - 3. September 2023",
 		lebenspartner: "Sommer 2023",
-		manifestieren: "10. - 11. Dezember 2022",
+		manifestieren: "Dezember 2023",
 		weltenbeziehungen: "2023",
 		intuitiveAnatomie: "Sommer 2023",
 		seelenpartner: "Herbst 2023",
