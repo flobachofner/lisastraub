@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "6. - 8. Januar 2023",
+		basisOnline: "Sommer 2023",
 		
 		aufbau: "Frühling 2023",
 		aufbauOnline: "23. - 26. Februar 2023",
@@ -45,7 +45,7 @@ function seminarDaten()
 		regenbogen: "2023",
 		krankheiten: "",
 		
-		uebungsabend: "3. Januar 2023",
+		uebungsabend: "3. Februar 2023",
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
