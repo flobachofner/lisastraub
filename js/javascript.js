@@ -30,12 +30,12 @@ function seminarDaten()
 		aufbau: "Frühling 2023",
 		aufbauOnline: "23. - 26. Februar 2023",
 		
-		dna3: "Frühling 2023",
+		dna3: "Auf Anfrage",
 		
 		tiefer: "22. - 23. April 2023",
 		schoepfer: "9. - 10. Juni 2023",
 		kreis: "Frühling 2023",
-		erde: "2. - 3. September 2023",
+		erde: "18. - 19. Mai 2023",
 		lebenspartner: "Sommer 2023",
 		manifestieren: "Dezember 2023",
 		weltenbeziehungen: "2023",
