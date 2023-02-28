@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "Sommer 2023",
+		basisOnline: "30.3. - 2.4.2023",
 		
 		aufbau: "Frühling 2023",
 		aufbauOnline: "23. - 26. Februar 2023",
