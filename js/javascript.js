@@ -33,7 +33,7 @@ function seminarDaten()
 		dna3: "Auf Anfrage",
 		
 		tiefer: "Herbst 2023",
-		schoepfer: "9. - 10. Juni 2023",
+		schoepfer: "10. - 11. Juni 2023",
 		kreis: "Frühling 2023",
 		erde: "Frühling 2024",
 		lebenspartner: "Sommer 2023",
