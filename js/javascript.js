@@ -36,7 +36,7 @@ function seminarDaten()
 		schoepfer: "10. - 11. Juni 2023",
 		kreis: "Frühling 2023",
 		erde: "Frühling 2024",
-		lebenspartner: "Sommer 2023",
+		lebenspartner: "8. - 9. Juli 2023",
 		manifestieren: "Dezember 2023",
 		weltenbeziehungen: "2023",
 		intuitiveAnatomie: "2023",
@@ -49,7 +49,7 @@ function seminarDaten()
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
-		special: "Juli bis Sept 2022",
+		special: "Juni bis Aug 2023",
 	}
 }
 
