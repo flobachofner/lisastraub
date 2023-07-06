@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "29.06. - 02.07.2023",
+		basisOnline: "Herbst 2023",
 		
 		aufbau: "Frühling 2023",
 		aufbauOnline: "10. - 13. August 2023",
@@ -33,10 +33,10 @@ function seminarDaten()
 		dna3: "Auf Anfrage",
 		
 		tiefer: "Herbst 2023",
-		schoepfer: "10. - 11. Juni 2023",
+		schoepfer: "Frühling 2024",
 		kreis: "Frühling 2023",
 		erde: "Frühling 2024",
-		lebenspartner: "8. - 9. Juli 2023",
+		lebenspartner: "Frühling 2024",
 		manifestieren: "Dezember 2023",
 		weltenbeziehungen: "2023",
 		intuitiveAnatomie: "2023",
