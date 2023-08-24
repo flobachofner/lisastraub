@@ -32,7 +32,7 @@ function seminarDaten()
 		
 		dna3: "Auf Anfrage",
 		
-		tiefer: "Herbst 2023",
+		tiefer: "23. - 24. September 2023",
 		schoepfer: "Frühling 2024",
 		kreis: "Frühling 2023",
 		erde: "Frühling 2024",
