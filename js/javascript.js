@@ -25,10 +25,10 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "Herbst 2023",
+		basisOnline: "19. - 22. Oktober 2023",
 		
 		aufbau: "Frühling 2023",
-		aufbauOnline: "10. - 13. August 2023",
+		aufbauOnline: "23. - 26. November 2023",
 		
 		dna3: "Auf Anfrage",
 		
