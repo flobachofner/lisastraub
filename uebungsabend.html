@@ -227,7 +227,7 @@
                 </div>
 
                 <div class="row pt-5 justify-content-center">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjjUQ2ydbumuTpLDheipc54VlPjZCcP0uk5jaQQJelr2xQ1w/viewform?embedded=true" width="640" height="1450" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+                    <iframe onload="loaded()" src="https://docs.google.com/forms/d/e/1FAIpQLScjjUQ2ydbumuTpLDheipc54VlPjZCcP0uk5jaQQJelr2xQ1w/viewform?embedded=true" width="640" height="1450" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
                 </div>
 
                 <a href="seminare" class="btn btn-link rounded-pill my-3 ">Zu den Seminaren &nbsp; <i
@@ -330,6 +330,16 @@
         [].forEach.call(errors, function (error) {
             error.innerHTML = seminarDaten().uebungsabend;
         });
+
+        var loadCounter = 0;
+        var loaded = function() {
+            loadCounter += 1;
+            console.log(loadCounter)
+            if (loadCounter === 2) {
+                window.scrollTo(0,2000)
+            }
+        }
+
 
     </script>
 </div>
