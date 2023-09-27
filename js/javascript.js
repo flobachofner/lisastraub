@@ -33,23 +33,23 @@ function seminarDaten()
 		dna3: "Auf Anfrage",
 		
 		tiefer: "23. - 24. September 2023",
-		schoepfer: "Frühling 2024",
-		kreis: "Frühling 2023",
-		erde: "Frühling 2024",
-		lebenspartner: "Frühling 2024",
-		manifestieren: "Dezember 2023",
-		weltenbeziehungen: "2023",
-		intuitiveAnatomie: "2023",
-		seelenpartner: "2023",
-		rhythm: "2023",
-		regenbogen: "2023",
+		schoepfer: "Termin offen",
+		kreis: "Termin offen",
+		erde: "Termin offen",
+		lebenspartner: "Termin offen",
+		manifestieren: "Termin offen",
+		weltenbeziehungen: "Termin offen",
+		intuitiveAnatomie: "Termin offen",
+		seelenpartner: "Termin offen",
+		rhythm: "Termin offen",
+		regenbogen: "Termin offen",
 		krankheiten: "",
 		
 		uebungsabend: "13. Oktober 2023",
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
-		special: "Juni bis Aug 2023",
+		special: "Termin offen",
 	}
 }
 
