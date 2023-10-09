@@ -49,7 +49,7 @@ function seminarDaten()
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
-		special: "Termin offen",
+		special: "Nov - Dez 2023",
 	}
 }
 
