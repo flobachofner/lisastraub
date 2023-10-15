@@ -28,7 +28,7 @@ function seminarDaten()
 		basisOnline: "19. - 22. Oktober 2023",
 		
 		aufbau: "Frühling 2023",
-		aufbauOnline: "23. - 26. November 2023",
+		aufbauOnline: "24. - 26. November 2023",
 		
 		dna3: "Auf Anfrage",
 		
