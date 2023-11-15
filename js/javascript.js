@@ -25,14 +25,14 @@ function seminarDaten()
 {
     return daten = {
 		basis: "2023",
-		basisOnline: "19. - 22. Oktober 2023",
+		basisOnline: "Frühling 2024",
 		
 		aufbau: "Frühling 2023",
-		aufbauOnline: "24. - 26. November 2023",
+		aufbauOnline: "Frühling 2024",
 		
 		dna3: "Auf Anfrage",
 		
-		tiefer: "23. - 24. September 2023",
+		tiefer: "Frühling 2024",
 		schoepfer: "Termin offen",
 		kreis: "Termin offen",
 		erde: "Termin offen",
@@ -45,7 +45,7 @@ function seminarDaten()
 		regenbogen: "Termin offen",
 		krankheiten: "",
 		
-		uebungsabend: "13. November 2023",
+		uebungsabend: "13. Dezember 2023",
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 		
