@@ -996,6 +996,12 @@
 	  error.innerHTML=seminarDaten().dna3;
 	});
 
+	var errors = document.querySelectorAll(
+			".LichtKlangKreisDatum");
+	[].forEach.call(errors, function(error) {
+		error.innerHTML=seminarDaten().lichtklangkreis;
+	});
+
 
   </script>
 </body>
