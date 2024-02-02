@@ -49,7 +49,7 @@ function seminarDaten()
 		uebungstag: "3. Juni 2023",
 		trommelabend: "Noch offen",
 
-		lichtklangkreis: "10. Februar 2024",
+		lichtklangkreis: "10. Februar 2024 - Ausgebucht",
 		
 		special: "Termin offen",
 	}
