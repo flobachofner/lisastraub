@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="lkk daten">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="new design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <updated>1707563910356</updated>
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
-      <workItem from="1708520253656" duration="8088000" />
+      <workItem from="1708520253656" duration="8487000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -97,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708617777856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new design">
+      <option name="closed" value="true" />
+      <created>1708618149256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708618149256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lkk daten" />
-    <option name="LAST_COMMIT_MESSAGE" value="lkk daten" />
+    <MESSAGE value="new design" />
+    <option name="LAST_COMMIT_MESSAGE" value="new design" />
   </component>
 </project>
