@@ -5,61 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="lkk daten">
-      <change afterPath="$PROJECT_DIR$/gruppen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/individuell.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musik.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blog-post-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog-post-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo_healing.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_healing.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo_sound.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_sound.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/aufbau-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/aufbau-online.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/aufbau.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/aufbau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/basis-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/basis-online.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/basis.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/basis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/dna3.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/dna3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/erde.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/erde.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/fuelle-pur.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/fuelle-pur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/intuitive-anatomie.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/intuitive-anatomie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/kreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/kreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/lebenspartner.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/lebenspartner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/lichtklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/manifestieren.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/manifestieren.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/regenbogenkinder.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/regenbogenkinder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/schoepfer.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/schoepfer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/seelenpartner.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/seelenpartner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/special.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/special.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/tiefer.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/tiefer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/uebersicht.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/uebersicht.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminare/weltenbeziehungen.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare/weltenbeziehungen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soundhealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/soundhealing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thetahealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/thetahealing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trommelabend.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/trommelabend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uebungsabend.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/uebungsabend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uebungstag.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/uebungstag.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,9 +87,17 @@
       <updated>1707563910356</updated>
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
-      <workItem from="1708520253656" duration="7468000" />
+      <workItem from="1708520253656" duration="8088000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lkk daten">
+      <option name="closed" value="true" />
+      <created>1708617777856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708617777856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
