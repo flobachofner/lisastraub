@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="hkk">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="removed link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gruppen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruppen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <updated>1707563910356</updated>
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
-      <workItem from="1708520253656" duration="8603000" />
+      <workItem from="1708520253656" duration="9509000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -106,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708618556463</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removed link">
+      <option name="closed" value="true" />
+      <created>1708618658580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708618658580</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +126,7 @@
     <MESSAGE value="lkk daten" />
     <MESSAGE value="new design" />
     <MESSAGE value="hkk" />
-    <option name="LAST_COMMIT_MESSAGE" value="hkk" />
+    <MESSAGE value="removed link" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed link" />
   </component>
 </project>
