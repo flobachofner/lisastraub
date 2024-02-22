@@ -24,34 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		basis: "2023",
-		basisOnline: "Termin offen",
-		
-		aufbau: "Termin offen",
-		aufbauOnline: "Termin offen",
-		
-		dna3: "Auf Anfrage",
-		
-		tiefer: "Termin offen",
-		schoepfer: "Termin offen",
-		kreis: "Termin offen",
-		erde: "Termin offen",
-		lebenspartner: "Termin offen",
-		manifestieren: "Termin offen",
-		weltenbeziehungen: "Termin offen",
-		intuitiveAnatomie: "Termin offen",
-		seelenpartner: "Termin offen",
-		rhythm: "Termin offen",
-		regenbogen: "Termin offen",
-		krankheiten: "",
-		
-		uebungsabend: "Termin offen",
-		uebungstag: "3. Juni 2023",
-		trommelabend: "Noch offen",
-
-		lichtklangkreis: "10. Februar 2024 - Ausgebucht",
-		
-		special: "Termin offen",
+		heilklangkreis: "23. März 2024"
 	}
 }
 
