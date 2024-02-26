@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="name hkk">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="link adapted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <updated>1707563910356</updated>
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
-      <workItem from="1708520253656" duration="10233000" />
+      <workItem from="1708520253656" duration="10898000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -154,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708638120985</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="link adapted">
+      <option name="closed" value="true" />
+      <created>1708638336339</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708638336339</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +187,7 @@
     <MESSAGE value="removed link" />
     <MESSAGE value="added brand logo" />
     <MESSAGE value="name hkk" />
-    <option name="LAST_COMMIT_MESSAGE" value="name hkk" />
+    <MESSAGE value="link adapted" />
+    <option name="LAST_COMMIT_MESSAGE" value="link adapted" />
   </component>
 </project>
