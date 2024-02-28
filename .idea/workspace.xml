@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="fontawesome">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/lisastraub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea 2/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog-post-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/datatables-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/datatables-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/datatables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/directives.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/directives.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/flag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/flag.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/rating.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/rating.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/zmd.hierarchical-display.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/addons/zmd.hierarchical-display.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/modules/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/modules/animations-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gruppen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post1_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post1_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post2_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post3_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post4_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post5_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post5_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post5_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post5_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post5_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post6_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post6_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post6_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post6_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post7_1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post7_2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post8_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post8_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/familie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gutschein.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/individuell.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kindheit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_healing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_newsletter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_sound.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/masters_seminar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/1to1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/anatomie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/aufbau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/basis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/dna3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/erde_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/fuelle-pur-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/fuelle-pur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/geld.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/intuitive-anatomie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/krankheiten.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/kreis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/kristallseminar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/lebenspartner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/lichtklangkreis.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/manifestieren.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/paradiesjahr-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/paradiesjahr-card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/paradiesjahr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/regenbogenkinder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/rhythm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/schoepfer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/seelenpartner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/segel-setzen.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/sommermagie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/summer-bliss.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/tiefer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/tierseminar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/trommelabend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/uebungsabend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/uebungstag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/uebungstag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/weltenbeziehungen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sertificate_seminar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/soundhealing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/soundhealing_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/soundhealing_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/soundhealing_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/friederike-kunath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/karin-isch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/nadine-burri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/nadine-stuebi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/rebecca-honegger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/sara-garcia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/thetahealing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/datatables-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/jquery.zmd.hierarchical-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/jquery.zmd.hierarchical-display.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/progressBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/progressBar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/addons/rating.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/bs-custom-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/default-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/enhanced-modals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modules/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musik.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/aufbau-online.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/aufbau.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/basis-online.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/basis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/dna3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/erde.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/fuelle-pur.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/intuitive-anatomie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/kreis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/lebenspartner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/manifestieren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/regenbogenkinder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/schoepfer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/seelenpartner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/special.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/tiefer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/uebersicht.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare/weltenbeziehungen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/soundhealing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/thetahealing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/trommelabend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/uebungsabend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/uebungstag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_custom-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_custom-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_datatables-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_directives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_flags.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_hierarchical-display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/addons/_rating.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_masks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/_waves.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/bootstrap/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/core/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_animations-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/_treeview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/modules/animations-extended/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mdb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mdb.lite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mdb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;flobachofner&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="83ffa024-5c2a-45b2-9358-4853612d0864" />
+        <option name="url" value="https://github.com/flobachofner/lisastraub.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cAonC7EexUoxaZ647KqB5Rakwa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/florianbachofner/Documents/3 - Work/sound&amp;healing/lisastraub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/old" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="lkk daten">
+      <option name="closed" value="true" />
+      <created>1707407614162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707407614162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lkk daten">
+      <option name="closed" value="true" />
+      <created>1707407621928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707407621928</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="lkk daten" />
+      <created>1707563910356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707563910356</updated>
+      <workItem from="1707563911783" duration="14000" />
+      <workItem from="1708088301691" duration="7823000" />
+      <workItem from="1708520253656" duration="11727000" />
+      <workItem from="1709107123942" duration="2312000" />
+      <workItem from="1709113176806" duration="254000" />
+      <workItem from="1709113538773" duration="108000" />
+      <workItem from="1709113652713" duration="380000" />
+    </task>
+    <task id="LOCAL-00003" summary="lkk daten">
+      <option name="closed" value="true" />
+      <created>1708617777856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708617777856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new design">
+      <option name="closed" value="true" />
+      <created>1708618149256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708618149256</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hkk">
+      <option name="closed" value="true" />
+      <created>1708618556463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708618556463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed link">
+      <option name="closed" value="true" />
+      <created>1708618658580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708618658580</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed link">
+      <option name="closed" value="true" />
+      <created>1708637607913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708637607913</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed link">
+      <option name="closed" value="true" />
+      <created>1708637778065</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708637778065</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed link">
+      <option name="closed" value="true" />
+      <created>1708637890905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708637890905</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added brand logo">
+      <option name="closed" value="true" />
+      <created>1708638070943</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708638070943</updated>
+    </task>
+    <task id="LOCAL-00011" summary="name hkk">
+      <option name="closed" value="true" />
+      <created>1708638120985</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708638120985</updated>
+    </task>
+    <task id="LOCAL-00012" summary="link adapted">
+      <option name="closed" value="true" />
+      <created>1708638336339</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708638336339</updated>
+    </task>
+    <task id="LOCAL-00013" summary="paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1708974061454</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708974061454</updated>
+    </task>
+    <task id="LOCAL-00014" summary="paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1708974292653</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708974292653</updated>
+    </task>
+    <task id="LOCAL-00015" summary="individuell zu 1:1">
+      <option name="closed" value="true" />
+      <created>1709112190188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709112190188</updated>
+    </task>
+    <task id="LOCAL-00016" summary="individuell zu 1:1">
+      <option name="closed" value="true" />
+      <created>1709112343845</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709112343845</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fontawesome">
+      <option name="closed" value="true" />
+      <created>1709112476346</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709112476346</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fontawesome">
+      <option name="closed" value="true" />
+      <created>1709113058313</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709113058313</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fontawesome">
+      <option name="closed" value="true" />
+      <created>1709113120583</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709113120583</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fontawesome">
+      <option name="closed" value="true" />
+      <created>1709113318118</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709113318118</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f03f22bb-9423-4df3-8ad9-fb5286b8d902" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f03f22bb-9423-4df3-8ad9-fb5286b8d902">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lkk daten" />
+    <MESSAGE value="new design" />
+    <MESSAGE value="hkk" />
+    <MESSAGE value="removed link" />
+    <MESSAGE value="added brand logo" />
+    <MESSAGE value="name hkk" />
+    <MESSAGE value="link adapted" />
+    <MESSAGE value="paradiesjahr" />
+    <MESSAGE value="individuell zu 1:1" />
+    <MESSAGE value="fontawesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="fontawesome" />
+  </component>
+</project>
