@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="link adapted">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="paradiesjahr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musik.html" beforeDir="false" afterPath="$PROJECT_DIR$/musik.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/seminare.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/soundhealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/soundhealing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/thetahealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/thetahealing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/trommelabend.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/trommelabend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/uebungstag.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/uebungstag.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/florianbachofner/Documents/3 - Work/sound&healing/lisastraub",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/florianbachofner/Documents/3 - Work/sound&amp;healing/lisastraub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -81,7 +93,8 @@
       <updated>1707563910356</updated>
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
-      <workItem from="1708520253656" duration="10898000" />
+      <workItem from="1708520253656" duration="11727000" />
+      <workItem from="1709107123942" duration="1325000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -163,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708638336339</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1708974061454</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708974061454</updated>
+    </task>
+    <task id="LOCAL-00014" summary="paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1708974292653</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708974292653</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +217,7 @@
     <MESSAGE value="added brand logo" />
     <MESSAGE value="name hkk" />
     <MESSAGE value="link adapted" />
-    <option name="LAST_COMMIT_MESSAGE" value="link adapted" />
+    <MESSAGE value="paradiesjahr" />
+    <option name="LAST_COMMIT_MESSAGE" value="paradiesjahr" />
   </component>
 </project>
