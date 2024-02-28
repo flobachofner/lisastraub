@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="paradiesjahr">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="individuell zu 1:1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musik.html" beforeDir="false" afterPath="$PROJECT_DIR$/musik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/seminare.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/seminare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/soundhealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/soundhealing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/thetahealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/thetahealing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/trommelabend.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/trommelabend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/uebungstag.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/uebungstag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +84,7 @@
       <workItem from="1707563911783" duration="14000" />
       <workItem from="1708088301691" duration="7823000" />
       <workItem from="1708520253656" duration="11727000" />
-      <workItem from="1709107123942" duration="1325000" />
+      <workItem from="1709107123942" duration="1461000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -192,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708974292653</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="individuell zu 1:1">
+      <option name="closed" value="true" />
+      <created>1709112190188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709112190188</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +216,7 @@
     <MESSAGE value="name hkk" />
     <MESSAGE value="link adapted" />
     <MESSAGE value="paradiesjahr" />
-    <option name="LAST_COMMIT_MESSAGE" value="paradiesjahr" />
+    <MESSAGE value="individuell zu 1:1" />
+    <option name="LAST_COMMIT_MESSAGE" value="individuell zu 1:1" />
   </component>
 </project>
