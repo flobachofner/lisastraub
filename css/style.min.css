@@ -725,7 +725,7 @@ top: 19px;
 }
 
 .individualangebot::after {
-	content: 'Individuell';
+	content: 'Eins zu eins';
 }
 
 .gruppenangebot::after {
