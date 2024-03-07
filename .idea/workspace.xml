@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="hkk update">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="ratenzahlung">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +101,7 @@
       <workItem from="1709113538773" duration="108000" />
       <workItem from="1709113652713" duration="380000" />
       <workItem from="1709114041781" duration="1349000" />
+      <workItem from="1709799393556" duration="645000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -286,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709114787644</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ratenzahlung">
+      <option name="closed" value="true" />
+      <created>1709799433629</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709799433629</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +356,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="eins zu eins" />
     <MESSAGE value="hkk update" />
-    <option name="LAST_COMMIT_MESSAGE" value="hkk update" />
+    <MESSAGE value="ratenzahlung" />
+    <option name="LAST_COMMIT_MESSAGE" value="ratenzahlung" />
   </component>
 </project>
