@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gruppen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruppen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="hkk update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,7 @@
       <workItem from="1709113176806" duration="254000" />
       <workItem from="1709113538773" duration="108000" />
       <workItem from="1709113652713" duration="380000" />
-      <workItem from="1709114041781" duration="396000" />
+      <workItem from="1709114041781" duration="1349000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -265,7 +262,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709114336822</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="eins zu eins">
+      <option name="closed" value="true" />
+      <created>1709114443661</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709114443661</updated>
+    </task>
+    <task id="LOCAL-00024" summary="hkk update">
+      <option name="closed" value="true" />
+      <created>1709114670940</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709114670940</updated>
+    </task>
+    <task id="LOCAL-00025" summary="hkk update">
+      <option name="closed" value="true" />
+      <created>1709114787644</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709114787644</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +345,8 @@
     <MESSAGE value="individuell zu 1:1" />
     <MESSAGE value="fontawesome" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="eins zu eins" />
+    <MESSAGE value="hkk update" />
+    <option name="LAST_COMMIT_MESSAGE" value="hkk update" />
   </component>
 </project>
