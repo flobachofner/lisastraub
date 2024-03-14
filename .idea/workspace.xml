@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="ratenzahlung">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="paradiesjahr">
+      <change afterPath="$PROJECT_DIR$/einzelsitzung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/seminare/koeniginnentag.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koeniginnentag.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +68,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/seminare" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/old" />
@@ -101,7 +106,8 @@
       <workItem from="1709113538773" duration="108000" />
       <workItem from="1709113652713" duration="380000" />
       <workItem from="1709114041781" duration="1349000" />
-      <workItem from="1709799393556" duration="645000" />
+      <workItem from="1709799393556" duration="1430000" />
+      <workItem from="1710427703385" duration="2322000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -295,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709799433629</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1709800640993</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709800640993</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,13 +364,13 @@
     <MESSAGE value="added brand logo" />
     <MESSAGE value="name hkk" />
     <MESSAGE value="link adapted" />
-    <MESSAGE value="paradiesjahr" />
     <MESSAGE value="individuell zu 1:1" />
     <MESSAGE value="fontawesome" />
     <MESSAGE value="update" />
     <MESSAGE value="eins zu eins" />
     <MESSAGE value="hkk update" />
     <MESSAGE value="ratenzahlung" />
-    <option name="LAST_COMMIT_MESSAGE" value="ratenzahlung" />
+    <MESSAGE value="paradiesjahr" />
+    <option name="LAST_COMMIT_MESSAGE" value="paradiesjahr" />
   </component>
 </project>
