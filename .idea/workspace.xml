@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="paradiesjahr">
-      <change afterPath="$PROJECT_DIR$/einzelsitzung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/seminare/koeniginnentag.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/koeniginnentag.html" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="kacheln">
+      <change afterPath="$PROJECT_DIR$/img/einzelsitzung.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/seminare/1to1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/seminare/1to1.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koeniginnentag.html" beforeDir="false" afterPath="$PROJECT_DIR$/koeniginnentag.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1709113652713" duration="380000" />
       <workItem from="1709114041781" duration="1349000" />
       <workItem from="1709799393556" duration="1430000" />
-      <workItem from="1710427703385" duration="2322000" />
+      <workItem from="1710427703385" duration="3055000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -309,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709800640993</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="kacheln">
+      <option name="closed" value="true" />
+      <created>1710430070128</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710430070128</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +379,7 @@
     <MESSAGE value="hkk update" />
     <MESSAGE value="ratenzahlung" />
     <MESSAGE value="paradiesjahr" />
-    <option name="LAST_COMMIT_MESSAGE" value="paradiesjahr" />
+    <MESSAGE value="kacheln" />
+    <option name="LAST_COMMIT_MESSAGE" value="kacheln" />
   </component>
 </project>
