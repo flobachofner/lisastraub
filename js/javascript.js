@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 
-		heilklangkreis: "23. März 2024",
+		heilklangkreis: "27. April 2024",
 	}
 }
 
