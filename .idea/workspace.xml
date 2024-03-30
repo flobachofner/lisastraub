@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="new front text">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="wider color">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gruppen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruppen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musik.html" beforeDir="false" afterPath="$PROJECT_DIR$/musik.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +111,7 @@
       <workItem from="1711120259517" duration="636000" />
       <workItem from="1711397160217" duration="356000" />
       <workItem from="1711548434744" duration="22000" />
-      <workItem from="1711812550702" duration="5507000" />
+      <workItem from="1711812550702" duration="6132000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -398,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711818655242</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="wider color">
+      <option name="closed" value="true" />
+      <created>1711818774439</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1711818774439</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,6 +481,7 @@
     <MESSAGE value="new about" />
     <MESSAGE value="added photos" />
     <MESSAGE value="new front text" />
-    <option name="LAST_COMMIT_MESSAGE" value="new front text" />
+    <MESSAGE value="wider color" />
+    <option name="LAST_COMMIT_MESSAGE" value="wider color" />
   </component>
 </project>
