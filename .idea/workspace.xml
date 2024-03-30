@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="new order">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="new photo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_healing.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_healing.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_sound.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_sound.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/soundhealing.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/soundhealing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +112,7 @@
       <workItem from="1711120259517" duration="636000" />
       <workItem from="1711397160217" duration="356000" />
       <workItem from="1711548434744" duration="22000" />
-      <workItem from="1711812550702" duration="3099000" />
+      <workItem from="1711812550702" duration="3814000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -359,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711814236557</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="new photo">
+      <option name="closed" value="true" />
+      <created>1711816106236</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711816106236</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +437,7 @@
     <MESSAGE value="pricing koeniginnentag" />
     <MESSAGE value="hkk datum" />
     <MESSAGE value="new order" />
-    <option name="LAST_COMMIT_MESSAGE" value="new order" />
+    <MESSAGE value="new photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="new photo" />
   </component>
 </project>
