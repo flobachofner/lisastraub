@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="pricing koeniginnentag">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="hkk datum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/einzelsitzung.html" beforeDir="false" afterPath="$PROJECT_DIR$/einzelsitzung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gruppen.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruppen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +110,9 @@
       <workItem from="1710427703385" duration="4203000" />
       <workItem from="1710939058833" duration="1134000" />
       <workItem from="1711120259517" duration="636000" />
-      <workItem from="1711397160217" duration="32000" />
+      <workItem from="1711397160217" duration="356000" />
+      <workItem from="1711548434744" duration="22000" />
+      <workItem from="1711812550702" duration="1424000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -342,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711120285830</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="hkk datum">
+      <option name="closed" value="true" />
+      <created>1711397206327</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1711397206327</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,6 +419,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="title responsive" />
     <MESSAGE value="pricing koeniginnentag" />
-    <option name="LAST_COMMIT_MESSAGE" value="pricing koeniginnentag" />
+    <MESSAGE value="hkk datum" />
+    <option name="LAST_COMMIT_MESSAGE" value="hkk datum" />
   </component>
 </project>
