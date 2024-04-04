@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added klangmagie image">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added IG widget">
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,7 @@
       <workItem from="1711812550702" duration="6700000" />
       <workItem from="1711898472355" duration="7000" />
       <workItem from="1712078690880" duration="674000" />
-      <workItem from="1712222868407" duration="304000" />
+      <workItem from="1712222868407" duration="609000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -426,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712078762743</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added IG widget">
+      <option name="closed" value="true" />
+      <created>1712223242611</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223242611</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hkk" />
     <MESSAGE value="removed link" />
     <MESSAGE value="added brand logo" />
     <MESSAGE value="name hkk" />
@@ -499,6 +505,7 @@
     <MESSAGE value="wider color" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="added klangmagie image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added klangmagie image" />
+    <MESSAGE value="added IG widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="added IG widget" />
   </component>
 </project>

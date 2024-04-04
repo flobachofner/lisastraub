@@ -659,6 +659,9 @@ top: 19px;
 .card:hover {
 	transform: scale(1.02);
 }
+.card-img-top {
+	height: 230px;
+}
 
 /* Curriculum */
 .card-curriculum {
