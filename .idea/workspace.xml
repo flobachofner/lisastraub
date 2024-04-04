@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added IG widget">
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
       <workItem from="1711812550702" duration="6700000" />
       <workItem from="1711898472355" duration="7000" />
       <workItem from="1712078690880" duration="674000" />
-      <workItem from="1712222868407" duration="609000" />
+      <workItem from="1712222868407" duration="1313000" />
     </task>
     <task id="LOCAL-00003" summary="lkk daten">
       <option name="closed" value="true" />
@@ -433,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712223242611</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="card img height correction">
+      <option name="closed" value="true" />
+      <created>1712223514912</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223514912</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update">
+      <option name="closed" value="true" />
+      <created>1712223582763</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223582763</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="removed link" />
     <MESSAGE value="added brand logo" />
     <MESSAGE value="name hkk" />
     <MESSAGE value="link adapted" />
@@ -492,7 +508,6 @@
     <MESSAGE value="ratenzahlung" />
     <MESSAGE value="paradiesjahr" />
     <MESSAGE value="kacheln" />
-    <MESSAGE value="update" />
     <MESSAGE value="title responsive" />
     <MESSAGE value="pricing koeniginnentag" />
     <MESSAGE value="hkk datum" />
@@ -506,6 +521,8 @@
     <MESSAGE value="minor changes" />
     <MESSAGE value="added klangmagie image" />
     <MESSAGE value="added IG widget" />
-    <option name="LAST_COMMIT_MESSAGE" value="added IG widget" />
+    <MESSAGE value="card img height correction" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
