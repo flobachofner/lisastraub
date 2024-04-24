@@ -643,7 +643,8 @@ top: 19px;
 	background-color: #961830 !important;
 }
 .single-news {
-	transition: transform .4s; /* Animation */ 
+	transition: transform .4s; /* Animation */
+	font-weight: 300 !important;
 }
 
 .single-news:hover {

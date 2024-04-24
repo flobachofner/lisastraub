@@ -103,11 +103,38 @@
   <main>
     <div class="container">
 		<p class="text-center">Schon seit ich denken kann, ist Musik ein wichtiger Teil meines Lebens. Auch heute noch begleitet sie mich tagtäglich.
-		<br>Diese Leidenschaft möchte ich gerne mit dir im Heil Klang Kreis teilen. </p>
+		<br>Diese Leidenschaft möchte ich gerne mit dir teilen. Hör rein in mein Album <strong>From Heart To Heart</strong> auf Spotify.</p>
 
-		<div class="row mt-4">
-			<a href="heilklangkreis" id="btn-seminare" class="btn btn-link rounded-pill mt-3">Heil Klang Kreis &nbsp; <i class="fas fa-angle-right"></i></a>
+		<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6l8cMzENbfvuoW4XM8NgdV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+		<p class="mt-5 text-center">Möchtest du meine Musik live erleben, ist der Heil Klang Kreis der perfekte Ort für dich!</p>
+
+		<!-- Small news -->
+		<div class="single-news card py-3 offset-2 col-8">
+			<div class="row">
+				<div class="col-md-4">
+					<!--Image-->
+					<div class="overlay rounded z-depth-1">
+						<img class="img-fluid" src="img/seminare/lichtklangkreis.jpeg" alt="LKK image">
+						<a><div class="mask rgba-white-slight"></div></a>
+					</div>
+				</div>
+
+				<div class="col-md-8">
+					<h4 class="card-title"><strong>Heil Klang Kreis</strong></h4>
+
+					<div class="d-flex justify-content-between">
+						<div class="col-12 pl-0">
+							<p class="HeilKlangKreisDatum font-weight-bold dark-grey-text"></p>
+							<p>Herzlich willkommen bei mir zu Hause am Bodensee zu einer heilsamen Reise in die Welt der Klänge.</p>
+							<p class="mb-0 font-small font-weight-bold"><a href="heilklangkreis" target="_self">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
+		<!-- Small news -->
+
 
 		<!--Klangreise-->
 		<section class="container">
@@ -211,10 +238,18 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+  <!-- Custom Javascript -->
+  <script type="text/javascript" src="js/javascript.js"></script>
   <!-- Initializations -->
   <script type="text/javascript">
     // Animations initialization
     new WOW().init();
+
+	var errors = document.querySelectorAll(
+			".HeilKlangKreisDatum");
+	[].forEach.call(errors, function(error) {
+		error.innerHTML=seminarDaten().heilklangkreis;
+	});
 
   </script>
 </body>
