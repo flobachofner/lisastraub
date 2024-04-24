@@ -654,7 +654,8 @@ top: 19px;
 
 /* Seminar Cards */
 .card {
-	transition: transform .4s; /* Animation */ 
+	transition: transform .4s; /* Animation */
+	font-weight: 300 !important;
 }
 
 .card:hover {
