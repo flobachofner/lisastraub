@@ -755,6 +755,12 @@ top: 19px;
 
 /* Curriculum */
 
+/* Paradiesjahr */
+#paradiesjahr-info {
+	border: #eab896 2px solid;
+}
+/* Paradiesjahr */
+
 /* Footer & Newsletter */
 .footer-newsletter {
 	background-color: #eab896;
