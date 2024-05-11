@@ -24,7 +24,6 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-
 		heilklangkreis: "8. Juni 2024",
 	}
 }
