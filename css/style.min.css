@@ -10,7 +10,7 @@ offgrey: #474747
 }
 
 .view, .mask {
-	overflow: visible !important;
+	overflow: hidden !important;
 }
 
 .seminar-page {
@@ -22,6 +22,13 @@ main {
 	background-color: white;
 	z-index: 100;
 	padding-top: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+	main {
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
 }
 
 /* Header */
@@ -1040,5 +1047,31 @@ text-align: left;
 }
 /* Border */
 
+/* SociableKIT */
+.sk-google-reviews-badge-info {
+	background-color: #eab896 !important;
+}
+.sk_fb_stars {
+	color: #961830 !important;
+}
+.sk_reviews_grid > *:nth-child(n+8) {
+	display: none;
+}
+.sk_branding {
+	height: 0px !important;
+	padding: 0px !important;
+}
+.sk-reviewer-name-action a {
+	color: #961830 !important;
+}
+.sk-google-review-button-more {
+	display: none !important;
+}
 
+/* Colors
+red: #961830
+red hover: #570422
+background: #eab896
+offgrey: #474747
 
+*/
