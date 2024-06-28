@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update klangmagie" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="hkk uhrzeit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,22 +102,8 @@
       <workItem from="1718720920433" duration="115000" />
       <workItem from="1718721045616" duration="7000" />
       <workItem from="1718783084674" duration="97000" />
-    </task>
-    <task id="LOCAL-00003" summary="lkk daten">
-      <option name="closed" value="true" />
-      <created>1708617777856</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1708617777856</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new design">
-      <option name="closed" value="true" />
-      <created>1708618149256</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1708618149256</updated>
+      <workItem from="1718783326192" duration="384000" />
+      <workItem from="1718793215504" duration="12000" />
     </task>
     <task id="LOCAL-00005" summary="hkk">
       <option name="closed" value="true" />
@@ -493,7 +481,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718783102517</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="pricing">
+      <option name="closed" value="true" />
+      <created>1718783398479</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1718783398480</updated>
+    </task>
+    <task id="LOCAL-00053" summary="hkk uhrzeit">
+      <option name="closed" value="true" />
+      <created>1718783590509</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1718783590509</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,8 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fontawesome" />
-    <MESSAGE value="eins zu eins" />
     <MESSAGE value="hkk update" />
     <MESSAGE value="ratenzahlung" />
     <MESSAGE value="paradiesjahr" />
@@ -566,6 +568,8 @@
     <MESSAGE value="update times hkk" />
     <MESSAGE value="update food hkk" />
     <MESSAGE value="update klangmagie" />
-    <option name="LAST_COMMIT_MESSAGE" value="update klangmagie" />
+    <MESSAGE value="pricing" />
+    <MESSAGE value="hkk uhrzeit" />
+    <option name="LAST_COMMIT_MESSAGE" value="hkk uhrzeit" />
   </component>
 </project>
