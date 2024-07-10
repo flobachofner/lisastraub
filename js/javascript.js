@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		heilklangkreis: "13. Juli 2024",
+		heilklangkreis: "14. September 2024",
 	}
 }
 
