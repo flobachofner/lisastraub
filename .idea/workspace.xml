@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="HKK new date">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="new feedback">
+      <change beforePath="$PROJECT_DIR$/klangmagie.html" beforeDir="false" afterPath="$PROJECT_DIR$/klangmagie.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,15 +116,7 @@
       <workItem from="1719562364622" duration="4724000" />
       <workItem from="1720603929703" duration="3101000" />
       <workItem from="1720617065434" duration="1679000" />
-      <workItem from="1721215768900" duration="776000" />
-    </task>
-    <task id="LOCAL-00009" summary="removed link">
-      <option name="closed" value="true" />
-      <created>1708637890905</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1708637890905</updated>
+      <workItem from="1721215768900" duration="1094000" />
     </task>
     <task id="LOCAL-00010" summary="added brand logo">
       <option name="closed" value="true" />
@@ -511,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720617537176</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="new feedback">
+      <option name="closed" value="true" />
+      <created>1721216549707</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1721216549707</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kacheln" />
     <MESSAGE value="title responsive" />
     <MESSAGE value="pricing koeniginnentag" />
     <MESSAGE value="hkk datum" />
@@ -584,6 +582,7 @@
     <MESSAGE value="update about text" />
     <MESSAGE value="repaired newsletter signup" />
     <MESSAGE value="HKK new date" />
-    <option name="LAST_COMMIT_MESSAGE" value="HKK new date" />
+    <MESSAGE value="new feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="new feedback" />
   </component>
 </project>
