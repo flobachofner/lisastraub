@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		heilklangkreis: "14. September 2024",
+		heilklangkreis: "15. Februar 2025",
 		klangmagie: "16. November 2024"
 	}
 }

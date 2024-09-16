@@ -1067,6 +1067,12 @@ text-align: left;
 .sk-google-review-button-more {
 	display: none !important;
 }
+.sk_show_hide_text {
+	opacity: 0;
+}
+.sk-google-reviews-text-content-all {
+	display: none !important;
+}
 
 /* Colors
 red: #961830
