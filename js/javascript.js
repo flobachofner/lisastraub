@@ -25,7 +25,7 @@ function seminarDaten()
 {
     return daten = {
 		heilklangkreis: "15. Februar 2025",
-		klangmagie: "16. November 2024"
+		klangmagie: "30. November 2024"
 	}
 }
 
