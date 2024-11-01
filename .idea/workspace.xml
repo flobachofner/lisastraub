@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="HKK datum">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
-    </list>
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="klangmagie datum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,15 +124,7 @@
       <workItem from="1726555088160" duration="3000" />
       <workItem from="1728303968125" duration="1375000" />
       <workItem from="1728373705092" duration="21000" />
-      <workItem from="1729266317518" duration="63000" />
-    </task>
-    <task id="LOCAL-00013" summary="paradiesjahr">
-      <option name="closed" value="true" />
-      <created>1708974061454</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1708974061454</updated>
+      <workItem from="1729266317518" duration="708000" />
     </task>
     <task id="LOCAL-00014" summary="paradiesjahr">
       <option name="closed" value="true" />
@@ -521,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726474239084</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="klangmagie datum">
+      <option name="closed" value="true" />
+      <created>1729266388526</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1729266388526</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new order" />
     <MESSAGE value="new photo" />
     <MESSAGE value="new color" />
     <MESSAGE value="new about" />
@@ -594,6 +590,7 @@
     <MESSAGE value="time update" />
     <MESSAGE value="dates klangmagie update" />
     <MESSAGE value="HKK datum" />
-    <option name="LAST_COMMIT_MESSAGE" value="HKK datum" />
+    <MESSAGE value="klangmagie datum" />
+    <option name="LAST_COMMIT_MESSAGE" value="klangmagie datum" />
   </component>
 </project>
