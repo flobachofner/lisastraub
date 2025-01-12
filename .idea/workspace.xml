@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="daten angepasst">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="updated frontpage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paradiesjahr.html" beforeDir="false" afterPath="$PROJECT_DIR$/paradiesjahr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,23 +134,7 @@
       <workItem from="1734097105774" duration="3177000" />
       <workItem from="1734514181724" duration="256000" />
       <workItem from="1735997261269" duration="2390000" />
-      <workItem from="1736428728095" duration="14070000" />
-    </task>
-    <task id="LOCAL-00017" summary="fontawesome">
-      <option name="closed" value="true" />
-      <created>1709112476346</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1709112476346</updated>
-    </task>
-    <task id="LOCAL-00018" summary="fontawesome">
-      <option name="closed" value="true" />
-      <created>1709113058313</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1709113058313</updated>
+      <workItem from="1736428728095" duration="14709000" />
     </task>
     <task id="LOCAL-00019" summary="fontawesome">
       <option name="closed" value="true" />
@@ -530,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736592026226</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="updated paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1736700234929</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700234929</updated>
+    </task>
+    <task id="LOCAL-00067" summary="updated frontpage">
+      <option name="closed" value="true" />
+      <created>1736700368657</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700368657</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,8 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added photos" />
-    <MESSAGE value="new front text" />
     <MESSAGE value="wider color" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="added klangmagie image" />
@@ -603,6 +599,8 @@
     <MESSAGE value="klangreise" />
     <MESSAGE value="datum klangmagie" />
     <MESSAGE value="daten angepasst" />
-    <option name="LAST_COMMIT_MESSAGE" value="daten angepasst" />
+    <MESSAGE value="updated paradiesjahr" />
+    <MESSAGE value="updated frontpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated frontpage" />
   </component>
 </project>
