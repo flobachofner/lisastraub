@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added feedbacks to paradiesjahr">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="pricing">
+      <change afterPath="$PROJECT_DIR$/breathmeetssound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/breath-meets-sound.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heilklangkreis.html" beforeDir="false" afterPath="$PROJECT_DIR$/heilklangkreis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klangmagie.html" beforeDir="false" afterPath="$PROJECT_DIR$/klangmagie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/javascript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/florianbachofner/keep_downloaded/lisastraub/lisastraub/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/florianbachofner/keep_downloaded/lisastraub/lisastraub",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.externalTools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
@@ -142,15 +143,9 @@
       <workItem from="1738416929761" duration="3947000" />
       <workItem from="1738511601517" duration="44000" />
       <workItem from="1738832680142" duration="2720000" />
-      <workItem from="1739037550943" duration="14000" />
-    </task>
-    <task id="LOCAL-00023" summary="eins zu eins">
-      <option name="closed" value="true" />
-      <created>1709114443661</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1709114443661</updated>
+      <workItem from="1739037550943" duration="1532000" />
+      <workItem from="1739865977799" duration="14000" />
+      <workItem from="1739876013725" duration="1649000" />
     </task>
     <task id="LOCAL-00024" summary="hkk update">
       <option name="closed" value="true" />
@@ -536,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738834841069</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="pricing">
+      <option name="closed" value="true" />
+      <created>1739037575910</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1739037575910</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +593,6 @@
     <MESSAGE value="update times hkk" />
     <MESSAGE value="update food hkk" />
     <MESSAGE value="update klangmagie" />
-    <MESSAGE value="pricing" />
     <MESSAGE value="hkk uhrzeit" />
     <MESSAGE value="update about text" />
     <MESSAGE value="repaired newsletter signup" />
@@ -609,6 +611,7 @@
     <MESSAGE value="wording" />
     <MESSAGE value="image" />
     <MESSAGE value="added feedbacks to paradiesjahr" />
-    <option name="LAST_COMMIT_MESSAGE" value="added feedbacks to paradiesjahr" />
+    <MESSAGE value="pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="pricing" />
   </component>
 </project>
