@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="telegram post">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="breath meets sound">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,15 +143,8 @@
       <workItem from="1739037550943" duration="1532000" />
       <workItem from="1739865977799" duration="14000" />
       <workItem from="1739876013725" duration="3512000" />
-      <workItem from="1740122472714" duration="355000" />
-    </task>
-    <task id="LOCAL-00027" summary="paradiesjahr">
-      <option name="closed" value="true" />
-      <created>1709800640993</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1709800640993</updated>
+      <workItem from="1740122472714" duration="1748000" />
+      <workItem from="1740690352571" duration="38000" />
     </task>
     <task id="LOCAL-00028" summary="kacheln">
       <option name="closed" value="true" />
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739885984464</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="breath meets sound">
+      <option name="closed" value="true" />
+      <created>1740122848553</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1740122848553</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,8 +609,8 @@
     <MESSAGE value="image" />
     <MESSAGE value="added feedbacks to paradiesjahr" />
     <MESSAGE value="pricing" />
-    <MESSAGE value="breath meets sound" />
     <MESSAGE value="telegram post" />
-    <option name="LAST_COMMIT_MESSAGE" value="telegram post" />
+    <MESSAGE value="breath meets sound" />
+    <option name="LAST_COMMIT_MESSAGE" value="breath meets sound" />
   </component>
 </project>

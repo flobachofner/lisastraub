@@ -130,21 +130,34 @@
 
                 <!--Grid column-->
                 <div class="col-sm-6 col-lg-4 mb-4">
+
+                    <!--Card-->
                     <div class="card">
+
+                        <!--Card image-->
                         <div class="view overlay">
-                            <img src="img/paradiesjahr2025.jpeg" class="card-img-top" alt="">
-                            <a href="paradiesjahr">
+                            <img src="img/breath-meets-sound.jpeg" class="card-img-top" alt="">
+                            <a href="breathmeetssound">
                                 <div class="mask rgba-white-slight waves-effect waves-light"></div>
                             </a>
                         </div>
+                        <!--/.Card image-->
+
+                        <!--Card content-->
                         <div class="card-body">
-                            <h4 class="card-title text-center"><strong>Paradiesjahr</strong></h4><hr>
-                            <p class="card-text mb-3">Das Jahr 2025 steht für Selbstermächtigung: Gemeinsam unterwegs in einem Kreis kraftvoller Frauen entfaltest du dein magisches Potenzial! </p>
-                            <p class="font-small font-weight-bold dark-grey-text mb-2">Über 8 Monate</p>
-                            <p class="font-small grey-text mb-0">online via Zoom</p>
-                            <p class="text-right mb-0 font-small font-weight-bold"><a href="paradiesjahr">weitere Infos <i class="fas fa-angle-right"></i></a></p>
+                            <!--Title-->
+                            <h4 class="card-title text-center"><strong>Breath Meets Sound</strong></h4>
+                            <hr>
+                            <!--Text-->
+                            <p class="card-text mb-3">Nadja und ich verbinden Atemarbeit, Klangreise und Bewegung zu einem einmaligen Tag am Bodensee.</p>
+                            <p class="BreathMeetsSoundDatum font-small font-weight-bold dark-grey-text mb-2"></p>
+                            <p class="font-small grey-text mb-0">Altnau TG</p>
+                            <p class="text-right mb-0 font-small font-weight-bold"><a href="breathmeetssound">weitere Infos <i class="fas fa-angle-right"></i></a></p>
                         </div>
+                        <!--/.Card content-->
+
                     </div>
+                    <!--/.Card-->
                 </div>
                 <!--Grid column-->
 
@@ -255,6 +268,12 @@
         ".KlangMagieDatum");
     [].forEach.call(errors, function(error) {
         error.innerHTML=seminarDaten().klangmagie;
+    });
+
+    var errors = document.querySelectorAll(
+        ".BreathMeetsSoundDatum");
+    [].forEach.call(errors, function(error) {
+        error.innerHTML=seminarDaten().breathmeetssound;
     });
 
 
