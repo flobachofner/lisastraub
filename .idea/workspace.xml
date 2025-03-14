@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added seelenklangbild">
-      <change beforePath="$PROJECT_DIR$/seelenklangbild.html" beforeDir="false" afterPath="$PROJECT_DIR$/seelenklangbild.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/einzelsitzung.html" beforeDir="false" afterPath="$PROJECT_DIR$/einzelsitzung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +150,7 @@
       <workItem from="1740690352571" duration="38000" />
       <workItem from="1741093702466" duration="1123000" />
       <workItem from="1741245167988" duration="6000" />
-      <workItem from="1741945867262" duration="1681000" />
+      <workItem from="1741945867262" duration="2983000" />
     </task>
     <task id="LOCAL-00030" summary="title responsive">
       <option name="closed" value="true" />
