@@ -683,6 +683,8 @@ top: 19px;
 }
 .card-img-top {
 	height: 230px;
+	object-fit: cover;
+	object-position: center;
 }
 
 /* Curriculum */
