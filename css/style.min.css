@@ -19,8 +19,7 @@ offgrey: #474747
 }
 
 main {
-	background-color: white;
-	z-index: 100;
+	z-index: -10;
 	padding-top: 30px;
 }
 
@@ -180,10 +179,16 @@ h3, h4, h5, h6 {
 	margin: 60px 0;
 }
 
+.head-background-content {
+	position: relative;
+	z-index: 1;
+}
+
 .site-title {
 	font-size: 7.5vw;
 	line-height: 155%;
 	margin-top: 160px;
+	z-index: 2;
 }
 
 @media only screen and (max-width: 768px) {
@@ -650,6 +655,39 @@ top: 19px;
 }
 
 /* Sections */
+
+
+/* Masonry Kristallheilung */
+.gallery-container {
+	max-width: 1200px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+.masonry-layout {
+	column-count: 1;
+	column-gap: 16px;
+}
+
+@media (min-width: 640px) {
+	.masonry-layout {
+		column-count: 2;
+	}
+}
+
+@media (min-width: 1024px) {
+	.masonry-layout {
+		column-count: 3;
+	}
+}
+
+.masonry-item {
+	background: #f9f9f9;
+	padding: 15px;
+	border-radius: 8px;
+	break-inside: avoid;
+	margin-bottom: 16px;
+}
 
 /* Telegram Wrapper */
 .telegramWrapper {
