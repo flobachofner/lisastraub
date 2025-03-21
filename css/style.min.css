@@ -19,7 +19,7 @@ offgrey: #474747
 }
 
 main {
-	z-index: -10;
+	background: white;
 	padding-top: 30px;
 }
 
