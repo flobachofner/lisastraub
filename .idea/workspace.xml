@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="added kristallheilung">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update kristallheilung">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/individuell.html" beforeDir="false" afterPath="$PROJECT_DIR$/individuell.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,15 +153,8 @@
       <workItem from="1742542500891" duration="667000" />
       <workItem from="1742543200367" duration="123000" />
       <workItem from="1742543389590" duration="3953000" />
-      <workItem from="1742549369110" duration="306000" />
-    </task>
-    <task id="LOCAL-00034" summary="new photo">
-      <option name="closed" value="true" />
-      <created>1711816106236</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1711816106236</updated>
+      <workItem from="1742549369110" duration="380000" />
+      <workItem from="1743003031994" duration="643000" />
     </task>
     <task id="LOCAL-00035" summary="new color">
       <option name="closed" value="true" />
@@ -550,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742545940123</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="update kristallheilung">
+      <option name="closed" value="true" />
+      <created>1742549705397</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1742549705397</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update about text" />
     <MESSAGE value="repaired newsletter signup" />
     <MESSAGE value="HKK new date" />
     <MESSAGE value="new feedback" />
@@ -623,6 +620,7 @@
     <MESSAGE value="added deep shift" />
     <MESSAGE value="text seelenklangbild" />
     <MESSAGE value="added kristallheilung" />
-    <option name="LAST_COMMIT_MESSAGE" value="added kristallheilung" />
+    <MESSAGE value="update kristallheilung" />
+    <option name="LAST_COMMIT_MESSAGE" value="update kristallheilung" />
   </component>
 </project>
