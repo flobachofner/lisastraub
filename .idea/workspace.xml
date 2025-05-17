@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update Zeiten">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update Zooms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/einklang.html" beforeDir="false" afterPath="$PROJECT_DIR$/einklang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,15 +156,8 @@
       <workItem from="1742549369110" duration="380000" />
       <workItem from="1743003031994" duration="874000" />
       <workItem from="1743429876301" duration="72000" />
-      <workItem from="1743767371242" duration="6000" />
-    </task>
-    <task id="LOCAL-00036" summary="new about">
-      <option name="closed" value="true" />
-      <created>1711818069209</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1711818069209</updated>
+      <workItem from="1743767371242" duration="1579000" />
+      <workItem from="1745565823555" duration="2000" />
     </task>
     <task id="LOCAL-00037" summary="added photos">
       <option name="closed" value="true" />
@@ -551,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743004743431</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="update Zooms">
+      <option name="closed" value="true" />
+      <created>1743767385845</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1743767385845</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HKK new date" />
     <MESSAGE value="new feedback" />
     <MESSAGE value="time update" />
     <MESSAGE value="dates klangmagie update" />
@@ -624,6 +623,7 @@
     <MESSAGE value="added kristallheilung" />
     <MESSAGE value="update kristallheilung" />
     <MESSAGE value="update Zeiten" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Zeiten" />
+    <MESSAGE value="update Zooms" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Zooms" />
   </component>
 </project>
