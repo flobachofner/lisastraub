@@ -24,7 +24,7 @@ $(document).ready(function(){
 function seminarDaten()
 {
     return daten = {
-		heilklangkreis: "5. Juli 2025",
+		heilklangkreis: "5. Juli 2025 | Ausgebucht",
 		klangmagie: "29. März 2025",
 		breathmeetssound: "9. März 2025"
 	}
