@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="update Zooms">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;flobachofner&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="83ffa024-5c2a-45b2-9358-4853612d0864" />
+        <option name="url" value="https://github.com/flobachofner/lisastraub.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cAonC7EexUoxaZ647KqB5Rakwa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/florianbachofner/keep_downloaded/lisastraub/lisastraub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/seminare" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/old" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.19416.2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4798bee3-521d-4c9c-ae99-a80512a32db8" name="Changes" comment="lkk daten" />
+      <created>1707563910356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707563910356</updated>
+      <workItem from="1707563911783" duration="14000" />
+      <workItem from="1708088301691" duration="7823000" />
+      <workItem from="1708520253656" duration="11727000" />
+      <workItem from="1709107123942" duration="2312000" />
+      <workItem from="1709113176806" duration="254000" />
+      <workItem from="1709113538773" duration="108000" />
+      <workItem from="1709113652713" duration="380000" />
+      <workItem from="1709114041781" duration="1349000" />
+      <workItem from="1709799393556" duration="1430000" />
+      <workItem from="1710427703385" duration="4203000" />
+      <workItem from="1710939058833" duration="1134000" />
+      <workItem from="1711120259517" duration="636000" />
+      <workItem from="1711397160217" duration="356000" />
+      <workItem from="1711548434744" duration="22000" />
+      <workItem from="1711812550702" duration="6700000" />
+      <workItem from="1711898472355" duration="7000" />
+      <workItem from="1712078690880" duration="674000" />
+      <workItem from="1712222868407" duration="2688000" />
+      <workItem from="1712264558790" duration="34000" />
+      <workItem from="1712821307897" duration="1459000" />
+      <workItem from="1718719242640" duration="928000" />
+      <workItem from="1718720920433" duration="115000" />
+      <workItem from="1718721045616" duration="7000" />
+      <workItem from="1718783084674" duration="97000" />
+      <workItem from="1718783326192" duration="384000" />
+      <workItem from="1718793215504" duration="12000" />
+      <workItem from="1719562076264" duration="256000" />
+      <workItem from="1719562364622" duration="4724000" />
+      <workItem from="1720603929703" duration="3101000" />
+      <workItem from="1720617065434" duration="1679000" />
+      <workItem from="1721215768900" duration="4597000" />
+      <workItem from="1721635358364" duration="3000" />
+      <workItem from="1724405128030" duration="1197000" />
+      <workItem from="1724674881093" duration="1348000" />
+      <workItem from="1724748036329" duration="84000" />
+      <workItem from="1726474168205" duration="865000" />
+      <workItem from="1726483128781" duration="9000" />
+      <workItem from="1726555088160" duration="3000" />
+      <workItem from="1728303968125" duration="1375000" />
+      <workItem from="1728373705092" duration="21000" />
+      <workItem from="1729266317518" duration="708000" />
+      <workItem from="1730455928973" duration="2513000" />
+      <workItem from="1730468792858" duration="11000" />
+      <workItem from="1731317052580" duration="2450000" />
+      <workItem from="1731401919815" duration="7000" />
+      <workItem from="1734097105774" duration="3177000" />
+      <workItem from="1734514181724" duration="256000" />
+      <workItem from="1735997261269" duration="2390000" />
+      <workItem from="1736428728095" duration="15206000" />
+      <workItem from="1738162284606" duration="2674000" />
+      <workItem from="1738416929761" duration="3947000" />
+      <workItem from="1738511601517" duration="44000" />
+      <workItem from="1738832680142" duration="2720000" />
+      <workItem from="1739037550943" duration="1532000" />
+      <workItem from="1739865977799" duration="14000" />
+      <workItem from="1739876013725" duration="3512000" />
+      <workItem from="1740122472714" duration="1748000" />
+      <workItem from="1740690352571" duration="38000" />
+      <workItem from="1741093702466" duration="1123000" />
+      <workItem from="1741245167988" duration="6000" />
+      <workItem from="1741945867262" duration="4666000" />
+      <workItem from="1742289169614" duration="449000" />
+      <workItem from="1742372903600" duration="2342000" />
+      <workItem from="1742542500891" duration="667000" />
+      <workItem from="1742543200367" duration="123000" />
+      <workItem from="1742543389590" duration="3953000" />
+      <workItem from="1742549369110" duration="380000" />
+      <workItem from="1743003031994" duration="874000" />
+      <workItem from="1743429876301" duration="72000" />
+      <workItem from="1743767371242" duration="1579000" />
+      <workItem from="1745565823555" duration="2000" />
+      <workItem from="1754506458138" duration="903000" />
+    </task>
+    <task id="LOCAL-00037" summary="added photos">
+      <option name="closed" value="true" />
+      <created>1711818439241</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711818439241</updated>
+    </task>
+    <task id="LOCAL-00038" summary="new front text">
+      <option name="closed" value="true" />
+      <created>1711818655242</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711818655242</updated>
+    </task>
+    <task id="LOCAL-00039" summary="wider color">
+      <option name="closed" value="true" />
+      <created>1711818774439</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1711818774439</updated>
+    </task>
+    <task id="LOCAL-00040" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1711819688647</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1711819688647</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added klangmagie image">
+      <option name="closed" value="true" />
+      <created>1712078762743</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078762743</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added IG widget">
+      <option name="closed" value="true" />
+      <created>1712223242611</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223242611</updated>
+    </task>
+    <task id="LOCAL-00043" summary="card img height correction">
+      <option name="closed" value="true" />
+      <created>1712223514912</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223514912</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update">
+      <option name="closed" value="true" />
+      <created>1712223582763</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223582763</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update instagram widget">
+      <option name="closed" value="true" />
+      <created>1712224196668</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1712224196668</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update klangmagie">
+      <option name="closed" value="true" />
+      <created>1712822161886</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1712822161886</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update times hkk">
+      <option name="closed" value="true" />
+      <created>1718719339998</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1718719339998</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update food hkk">
+      <option name="closed" value="true" />
+      <created>1718719397855</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1718719397855</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update klangmagie">
+      <option name="closed" value="true" />
+      <created>1718720066248</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1718720066248</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update klangmagie">
+      <option name="closed" value="true" />
+      <created>1718720941361</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1718720941362</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update klangmagie">
+      <option name="closed" value="true" />
+      <created>1718783102516</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1718783102517</updated>
+    </task>
+    <task id="LOCAL-00052" summary="pricing">
+      <option name="closed" value="true" />
+      <created>1718783398479</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1718783398480</updated>
+    </task>
+    <task id="LOCAL-00053" summary="hkk uhrzeit">
+      <option name="closed" value="true" />
+      <created>1718783590509</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1718783590509</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update about text">
+      <option name="closed" value="true" />
+      <created>1719562173472</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1719562173472</updated>
+    </task>
+    <task id="LOCAL-00055" summary="repaired newsletter signup">
+      <option name="closed" value="true" />
+      <created>1720608771706</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1720608771706</updated>
+    </task>
+    <task id="LOCAL-00056" summary="HKK new date">
+      <option name="closed" value="true" />
+      <created>1720617171262</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1720617171263</updated>
+    </task>
+    <task id="LOCAL-00057" summary="HKK new date">
+      <option name="closed" value="true" />
+      <created>1720617537176</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1720617537176</updated>
+    </task>
+    <task id="LOCAL-00058" summary="new feedback">
+      <option name="closed" value="true" />
+      <created>1721216549707</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1721216549707</updated>
+    </task>
+    <task id="LOCAL-00059" summary="time update">
+      <option name="closed" value="true" />
+      <created>1721216889617</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1721216889617</updated>
+    </task>
+    <task id="LOCAL-00060" summary="dates klangmagie update">
+      <option name="closed" value="true" />
+      <created>1724405402580</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1724405402580</updated>
+    </task>
+    <task id="LOCAL-00061" summary="HKK datum">
+      <option name="closed" value="true" />
+      <created>1726474239083</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1726474239084</updated>
+    </task>
+    <task id="LOCAL-00062" summary="klangmagie datum">
+      <option name="closed" value="true" />
+      <created>1729266388526</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1729266388526</updated>
+    </task>
+    <task id="LOCAL-00063" summary="klangreise">
+      <option name="closed" value="true" />
+      <created>1734097286590</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1734097286590</updated>
+    </task>
+    <task id="LOCAL-00064" summary="datum klangmagie">
+      <option name="closed" value="true" />
+      <created>1734098611376</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1734098611376</updated>
+    </task>
+    <task id="LOCAL-00065" summary="daten angepasst">
+      <option name="closed" value="true" />
+      <created>1736592026226</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1736592026226</updated>
+    </task>
+    <task id="LOCAL-00066" summary="updated paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1736700234929</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700234929</updated>
+    </task>
+    <task id="LOCAL-00067" summary="updated frontpage">
+      <option name="closed" value="true" />
+      <created>1736700368657</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700368657</updated>
+    </task>
+    <task id="LOCAL-00068" summary="updated gruppenpage">
+      <option name="closed" value="true" />
+      <created>1736700758214</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700758214</updated>
+    </task>
+    <task id="LOCAL-00069" summary="wording">
+      <option name="closed" value="true" />
+      <created>1738417380101</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1738417380101</updated>
+    </task>
+    <task id="LOCAL-00070" summary="image">
+      <option name="closed" value="true" />
+      <created>1738418455957</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1738418455957</updated>
+    </task>
+    <task id="LOCAL-00071" summary="added feedbacks to paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1738834841069</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1738834841069</updated>
+    </task>
+    <task id="LOCAL-00072" summary="pricing">
+      <option name="closed" value="true" />
+      <created>1739037575910</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1739037575910</updated>
+    </task>
+    <task id="LOCAL-00073" summary="breath meets sound">
+      <option name="closed" value="true" />
+      <created>1739877765824</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1739877765824</updated>
+    </task>
+    <task id="LOCAL-00074" summary="breath meets sound">
+      <option name="closed" value="true" />
+      <created>1739885773943</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1739885773943</updated>
+    </task>
+    <task id="LOCAL-00075" summary="telegram post">
+      <option name="closed" value="true" />
+      <created>1739885984464</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1739885984464</updated>
+    </task>
+    <task id="LOCAL-00076" summary="breath meets sound">
+      <option name="closed" value="true" />
+      <created>1740122848553</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1740122848553</updated>
+    </task>
+    <task id="LOCAL-00077" summary="removed paradiesjahr">
+      <option name="closed" value="true" />
+      <created>1741093814442</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1741093814442</updated>
+    </task>
+    <task id="LOCAL-00078" summary="added seelenklangbild">
+      <option name="closed" value="true" />
+      <created>1741947420050</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1741947420050</updated>
+    </task>
+    <task id="LOCAL-00079" summary="added deep shift">
+      <option name="closed" value="true" />
+      <created>1741949037160</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1741949037161</updated>
+    </task>
+    <task id="LOCAL-00080" summary="added kristallheilung">
+      <option name="closed" value="true" />
+      <created>1742289434882</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1742289434882</updated>
+    </task>
+    <task id="LOCAL-00081" summary="text seelenklangbild">
+      <option name="closed" value="true" />
+      <created>1742373210242</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1742373210242</updated>
+    </task>
+    <task id="LOCAL-00082" summary="added kristallheilung">
+      <option name="closed" value="true" />
+      <created>1742545940123</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1742545940123</updated>
+    </task>
+    <task id="LOCAL-00083" summary="update kristallheilung">
+      <option name="closed" value="true" />
+      <created>1742549705397</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1742549705397</updated>
+    </task>
+    <task id="LOCAL-00084" summary="update Zeiten">
+      <option name="closed" value="true" />
+      <created>1743004743430</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1743004743431</updated>
+    </task>
+    <task id="LOCAL-00085" summary="update Zooms">
+      <option name="closed" value="true" />
+      <created>1743767385845</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1743767385845</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f03f22bb-9423-4df3-8ad9-fb5286b8d902" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f03f22bb-9423-4df3-8ad9-fb5286b8d902">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new feedback" />
+    <MESSAGE value="time update" />
+    <MESSAGE value="dates klangmagie update" />
+    <MESSAGE value="HKK datum" />
+    <MESSAGE value="klangmagie datum" />
+    <MESSAGE value="klangreise" />
+    <MESSAGE value="datum klangmagie" />
+    <MESSAGE value="daten angepasst" />
+    <MESSAGE value="updated paradiesjahr" />
+    <MESSAGE value="updated frontpage" />
+    <MESSAGE value="updated gruppenpage" />
+    <MESSAGE value="wording" />
+    <MESSAGE value="image" />
+    <MESSAGE value="added feedbacks to paradiesjahr" />
+    <MESSAGE value="pricing" />
+    <MESSAGE value="telegram post" />
+    <MESSAGE value="breath meets sound" />
+    <MESSAGE value="removed paradiesjahr" />
+    <MESSAGE value="added seelenklangbild" />
+    <MESSAGE value="added deep shift" />
+    <MESSAGE value="text seelenklangbild" />
+    <MESSAGE value="added kristallheilung" />
+    <MESSAGE value="update kristallheilung" />
+    <MESSAGE value="update Zeiten" />
+    <MESSAGE value="update Zooms" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Zooms" />
+  </component>
+</project>
